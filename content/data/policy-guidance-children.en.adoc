@@ -1,0 +1,8 @@
+---
+title: Policy guidance on AI for children (via unicef.org)
+description: Recommendations for building AI policies and systems that uphold child rights. Part of UNICEF AI for children project.
+categories: data
+type: redirect
+redirectUrl: https://unicef.github.io/ooi-toolkit-ds/privacy-ethics/policy-guidance-children/
+
+---

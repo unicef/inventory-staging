@@ -1,0 +1,6 @@
+---
+blank_issues_enabled: false
+contact_links:
+  - name: Open Source Inventory site theme
+    url: https://github.com/unicef/inventory-hugo-theme/issues/new/choose
+    about: Share feedback, ideas, or report a bug on the site theme used in the Open Source Inventory.

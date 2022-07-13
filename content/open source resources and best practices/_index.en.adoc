@@ -1,0 +1,7 @@
+---
+title: "Open Source Resources and Best Practices" 
+icon: "vr-cardboard"
+description: "Lorem ipsum dolor sit amet, consectetur lorem ipsum dolor sit amet"
+type: "docs"
+
+---

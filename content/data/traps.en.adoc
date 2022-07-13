@@ -1,0 +1,8 @@
+---
+title: Common traps to avoid when building AI systems
+description: Assessing common AI/ML mistakes that lead to unintended side effects.
+categories: data
+type: redirect
+redirectUrl: https://unicef.github.io/ooi-toolkit-ds/privacy-ethics/traps/
+
+---

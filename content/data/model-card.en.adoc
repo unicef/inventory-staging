@@ -1,0 +1,8 @@
+---
+title: Machine Learning Model Card
+description: Model cards help you document how your model was made. Use this overview to make your own model cards.
+categories: data
+type: redirect
+redirectUrl: https://unicef.github.io/ooi-toolkit-ds/privacy-ethics/model-card/
+
+---

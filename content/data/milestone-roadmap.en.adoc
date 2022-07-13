@@ -1,0 +1,8 @@
+---
+title: AI Ethics & Transparency Roadmap - Template
+description: How do you document your machine learning development process? This guide shares transparency best practices.
+categories: data
+type: redirect
+redirectUrl: https://unicef.github.io/ooi-toolkit-ds/privacy-ethics/milestone-roadmap/
+
+---
