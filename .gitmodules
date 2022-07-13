@@ -1,3 +1,4 @@
-[submodule "inventory-hugo-theme"]
-	path = inventory-hugo-theme
+[submodule "themes/inventory"]
+	path = themes/inventory
 	url = https://github.com/unicef/inventory-hugo-theme.git
+
