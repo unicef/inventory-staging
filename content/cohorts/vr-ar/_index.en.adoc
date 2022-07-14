@@ -1,7 +1,0 @@
----
-title: "VR + AR"
-icon: "ti-eye"
-description: "The UNICEF Venture Fund looks for start-ups that are developing and piloting new open source VR/AR solutions."
-type: "profiles"
-
----

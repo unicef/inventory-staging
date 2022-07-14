@@ -1,7 +1,0 @@
----
-title: "News"
-icon: "ti-comments-smiley"
-description: "Latest news from the UNICEF Venture Fund team."
-type: "alert"
-
----
