@@ -1,0 +1,470 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>UNICEF O.S. Inventory</title>
+    <link>https://unicef.github.io/inventory-staging/</link>
+    <description>Recent content on UNICEF O.S. Inventory</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Creative Commons BY-SA 4.0. Site theme maintained by UNICEF. Original theme, Dot, created by ThemeFisher.</copyright>
+    <lastBuildDate>Sun, 25 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://unicef.github.io/inventory-staging/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introduction to Open Source Hardware</title>
+      <link>https://unicef.github.io/inventory-staging/dpg-indicators/8/open-hardware/intro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://unicef.github.io/inventory-staging/dpg-indicators/8/open-hardware/intro/</guid>
+      <description>Table of Contents 1. What is Open Source Hardware? 1.1. Takeaway   2. Where does Open Source Hardware exist today? 3. Why Open Source Hardware is a win for your project 3.1. Reason no. 1: Reproducibility 3.2. Reason no. 2: Community participation 3.3. Reason no. 3: Trademark protections   4. Open Source Hardware Association 5. Resources and other references   So… you want to know about Open Source Hardware?</description>
+    </item>
+    
+    <item>
+      <title>Elsa Health</title>
+      <link>https://unicef.github.io/inventory-staging/cohorts/ds-ai/inspired-ideas/</link>
+      <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://unicef.github.io/inventory-staging/cohorts/ds-ai/inspired-ideas/</guid>
+      <description>Elsa Health develops AI-powered clinical decision support algorithms for healthcare providers in East Africa. These algorithms are delivered through the Elsa Health Assistant or integrated into existing health information platforms to provide disease identification, triage support, adherence prediction, and outbreak predictions. Elsa Health currently powers decisions for 10,000 patient visits per month.
+ </description>
+    </item>
+    
+    <item>
+      <title>OTTAA Project</title>
+      <link>https://unicef.github.io/inventory-staging/cohorts/ds-ai/ottaa-project/</link>
+      <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://unicef.github.io/inventory-staging/cohorts/ds-ai/ottaa-project/</guid>
+      <description>OTTAA Project is the first real intelligent AAC platform that uses environmental data and a powerful AI algorithm that in combination with a pictogram based communication code allows users to create sentences and communicate effectively every single day. This AI-powered alternative and augmentative communication tool allow users with disabilities to communicate, express their feelings and basic needs. The team directly responds to the challenge of fostering social inclusion for people with disabilities and ensuring effective communication for those with complex communication needs.</description>
+    </item>
+    
+    <item>
+      <title>VRapeutic</title>
+      <link>https://unicef.github.io/inventory-staging/cohorts/vr-ar/vrapeutic/</link>
+      <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://unicef.github.io/inventory-staging/cohorts/vr-ar/vrapeutic/</guid>
+      <description>VRapeutic develops virtual reality software modules specially tailored to instill cognitive, social, academic, and motor skills in children and young adults.
+ VRapeutic creates VR content for children diagnosed with ADHD and autism for skill-based learning. We do in months what is currently done in years, by realizing the potential of virtual reality-based rehabilitation in the field of learning and developmental disorders, such as autism, ADHD, cerebral palsy, in addition to others.</description>
+    </item>
+    
+    <item>
+      <title>BX Smart Labs</title>
+      <link>https://unicef.github.io/inventory-staging/cohorts/blockchain/bx-smart-labs/</link>
+      <pubDate>Sun, 25 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://unicef.github.io/inventory-staging/cohorts/blockchain/bx-smart-labs/</guid>
+      <description>Decentralised application for saving circles. The payments will be done on the blockchain allowing the saving circles to be built regardless of the location of the users. The smart contract will automatize the payments and withdrawals on each period ensuring the users receive their funds.
+ </description>
+    </item>
+    
+    <item>
+      <title>Kotani Pay</title>
+      <link>https://unicef.github.io/inventory-staging/cohorts/blockchain/kotani-pay/</link>
+      <pubDate>Sun, 25 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://unicef.github.io/inventory-staging/cohorts/blockchain/kotani-pay/</guid>
+      <description>Kotani Pay is a technology stack that enables blockchain protocols, dapps, and blockchain fintech companies to integrate seamlessly to local payment channels providing them with a reliable on ramp and off ramp service to reach a wider customer base in Africa. Kotani Pay serves as a friction-less bridge between cryptocurrency and fiat currencies and enables users to access the blockchain via USSD. The platform has 300 users to date and is live in Kenya.</description>
+    </item>
+    
+    <item>
+      <title>Leaf Global Fintech</title>
+      <link>https://unicef.github.io/inventory-staging/cohorts/blockchain/leaf-global-fintech/</link>
+      <pubDate>Sun, 25 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://unicef.github.io/inventory-staging/cohorts/blockchain/leaf-global-fintech/</guid>
+      <description>A virtual bank for vulnerable populations, allowing for the storage and transport of assets across borders from a mobile device (without a smartphone). Protects customers’ savings through blockchain technology without exposure to volatile cryptocurrencies. Identity is linked through biometric authentication so that a refugee could lose their documentation and still access their finances.
+ </description>
+    </item>
+    
+    <item>
+      <title>Rumsan</title>
+      <link>https://unicef.github.io/inventory-staging/cohorts/blockchain/rumsan/</link>
+      <pubDate>Sun, 25 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://unicef.github.io/inventory-staging/cohorts/blockchain/rumsan/</guid>
+      <description>Rumsan is a blockchain innovation company focused on social impact. Rahat, developed by Rumsan, is an open source blockchain-based CVA management system. Rahat manages and monitors the flow of transactions in aid distribution projects. With its real-time visibility to the flow of funds, Rahat builds transparency, accountability and financial inclusivity to maximize support for marginalized communities.
+ </description>
+    </item>
+    
+    <item>
+      <title>Treejer</title>
+      <link>https://unicef.github.io/inventory-staging/cohorts/blockchain/treejer/</link>
+      <pubDate>Sun, 25 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://unicef.github.io/inventory-staging/cohorts/blockchain/treejer/</guid>
+      <description>Treejer (trēʒər) is an open protocol connecting funders to rural planters worldwide. The project is experimenting with cutting-edge concepts such as decentralized finance (DeFi), non-fungible tokens (NFTs) and smart contracts to unlock new opportunities for climate finance, rural development and carbon credits. The team has on-boarded planters from over 10 countries located in the Latin America, Africa and Middle East. Users are enabled to make ecological and social impact even in unbanked communities.</description>
+    </item>
+    
+    <item>
+      <title>Xcapit</title>
+      <link>https://unicef.github.io/inventory-staging/cohorts/blockchain/xcapit/</link>
+      <pubDate>Sun, 25 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://unicef.github.io/inventory-staging/cohorts/blockchain/xcapit/</guid>
+      <description>A platform using blockchain for wealth management, including financial planning and financial education in a gamified way. The Xcapit team has built an open source and self-custodial wallet and onboarded over 14,000 users from LatAm, especially from Mexico and Argentina within the first 2 months after launching.
+ </description>
+    </item>
+    
+    <item>
+      <title>ScioXR</title>
+      <link>https://unicef.github.io/inventory-staging/cohorts/vr-ar/scioxr/</link>
+      <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://unicef.github.io/inventory-staging/cohorts/vr-ar/scioxr/</guid>
+      <description>Propter D.O.O are developing ScioXR, a VR/AR software platform that delivers immersive learning games and experiences that empower students to learn about the world around them.
+ Technology around us has gone a long way since the beginning of our millennium. Yet, most of our classrooms remain more or less the same as they were at the end of the 20th century. This especially applies to the STEM (Science, Technology, Engineering and Mathematics) field.</description>
+    </item>
+    
+    <item>
+      <title>AI Ethics &amp; Transparency Roadmap - Template</title>
+      <link>https://unicef.github.io/inventory-staging/data/milestone-roadmap/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://unicef.github.io/inventory-staging/data/milestone-roadmap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Case studies</title>
+      <link>https://unicef.github.io/inventory-staging/dpg-indicators/8/open-hardware/case-studies/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://unicef.github.io/inventory-staging/dpg-indicators/8/open-hardware/case-studies/</guid>
+      <description>Table of Contents 1. Opentrons 2. Arduino 3. REMODEL toolkit 4. Honorable mentions 4.1. Ultimate Hacking Keyboard     Below are more detailed case studios of different Open Hardware organizations, projects, and products. Unlike the Projects page, these examples are more detailed and provide more context.
+ 1. Opentrons Scientific-focused hardware.
+  Several highly successful and well-regarded biology/chemistry lab automation robots. By going 100% open source, they substantially reduced costs.</description>
+    </item>
+    
+    <item>
+      <title>Charters</title>
+      <link>https://unicef.github.io/inventory-staging/dpg-indicators/3/charters/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://unicef.github.io/inventory-staging/dpg-indicators/3/charters/</guid>
+      <description>Table of Contents 1. Launch checklist 1.1. Who? 1.2. What?   2. Preparing for take-off 2.1. Process 2.2. Platform   3. Take-off! Time to launch 3.1. Vision and mission 3.2. Community statement 3.3. Licensing approach 3.4. Code of Conduct 3.5. Trademark identification   4. Destination: Sustainable governance 4.1. Note on revisions   5. References 6. Thanks   This Mission is a guide to project charters. A project charter is important in an Open Source context because it acts as an anchor across the project’s lifetime and provides a framework for making decisions and prioritizing future development work.</description>
+    </item>
+    
+    <item>
+      <title>Codes of Conduct</title>
+      <link>https://unicef.github.io/inventory-staging/dpg-indicators/9/codes-of-conduct/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://unicef.github.io/inventory-staging/dpg-indicators/9/codes-of-conduct/</guid>
+      <description>Table of Contents 1. Quality of writing 2. Clarity of expectations 3. Defined structure for handling enforcement 4. Two to four people responsible for handling sensitive reports 5. Use an existing Code of Conduct instead of writing one yourself 6. References      This Mission is a short exercise on understanding how Codes of Conduct fit into your Open Source community. In designing a Code of Conduct for a project community, we will explore these Requirements for this Mission:</description>
+    </item>
+    
+    <item>
+      <title>Common traps to avoid when building AI systems</title>
+      <link>https://unicef.github.io/inventory-staging/data/traps/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://unicef.github.io/inventory-staging/data/traps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Continuous Integration (CI)</title>
+      <link>https://unicef.github.io/inventory-staging/open-source-resources-and-best-practices/dev-tools/continuous-integration/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://unicef.github.io/inventory-staging/open-source-resources-and-best-practices/dev-tools/continuous-integration/</guid>
+      <description>Table of Contents 1. What is CI and why does it matter? 1.1. Tests vs. CI 1.2. Benefits   2. CI platforms 3. Tips and tricks 4. Examples 5. Other resources   This guide is an introduction to Continuous Integration (C.I.) for Open Source projects. In this guide, you will learn about the following topics:
+ 1. What is CI and why does it matter? Continuous Integration can be a few different things.</description>
+    </item>
+    
+    <item>
+      <title>Contributor License Agreements (CLAs)</title>
+      <link>https://unicef.github.io/inventory-staging/dpg-indicators/2/contributor-license-agreement-cla/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://unicef.github.io/inventory-staging/dpg-indicators/2/contributor-license-agreement-cla/</guid>
+      <description>Table of Contents 1. What are they for? 1.1. Criticism of CLAs   2. What alternatives exist? 2.1. Fedora Project Contributor Agreement (FPCA)   3. What do I need for my own CLA?   Originally authored by Mike Nolan, edited and maintained by Justin W. Flory.
+ This page introduces Contributor License Agreements (shortened C.L.As) in Open Source projects.
+ 1. What are they for? Contributor License Agreements (CLAs) are often used in Open Source projects to form a legal agreement between an individual or company and a project maintainer.</description>
+    </item>
+    
+    <item>
+      <title>Documentation</title>
+      <link>https://unicef.github.io/inventory-staging/dpg-indicators/8/open-hardware/documentation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://unicef.github.io/inventory-staging/dpg-indicators/8/open-hardware/documentation/</guid>
+      <description>This page offers information and resources about documenting Open Hardware projects.
+ 1. Conventions &amp;amp; standards   Open Know-How Manifest Specification: &amp;#34;The objective of this specification is to improve the open-ness of know-how for making hardware by improving the discoverability, portability and translatability of knowledge.&amp;#34; Provides a format and specification for how to document and release Open Hardware projects and design schematics.
+     </description>
+    </item>
+    
+    <item>
+      <title>Documentation Hall of Fame</title>
+      <link>https://unicef.github.io/inventory-staging/dpg-indicators/5/hall-of-fame/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://unicef.github.io/inventory-staging/dpg-indicators/5/hall-of-fame/</guid>
+      <description>Table of Contents 1. Aggregations 2. Developer documentation 3. Toolchain-specific examples 3.1. Golang Hugo 3.2. Python Sphinx     This page is a collection of good examples of Open Source documentation projects. The projects and examples listed here are not endorsements. It is a collection of good examples to inspire your own Open Source documentation!
+ 1. Aggregations The projects listed below aggregate several existing documentation projects:
+   Awesome Documentation: Community-curated resource with examples of great documentation in Open Source projects.</description>
+    </item>
+    
+    <item>
+      <title>Drones</title>
+      <link>https://unicef.github.io/inventory-staging/cohorts/drones/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://unicef.github.io/inventory-staging/cohorts/drones/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fedora Project</title>
+      <link>https://unicef.github.io/inventory-staging/dpg-indicators/8/communities/fedora/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://unicef.github.io/inventory-staging/dpg-indicators/8/communities/fedora/</guid>
+      <description>Table of Contents 1. What is Fedora? 1.1. Linux kernel distribution 1.2. Project 1.3. Community   2. Background 3. Get involved with Fedora      &amp;#34;Fedora&amp;#34; is not only a kind of hat, but also a large Open Source community with a unique role in the Open Source ecosystem. This page provides an overview of the Fedora Linux distribution, project, and community.
+ 1. What is Fedora?</description>
+    </item>
+    
+    <item>
+      <title>Frontier technology tips</title>
+      <link>https://unicef.github.io/inventory-staging/dpg-indicators/5/frontier-tech-tips/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://unicef.github.io/inventory-staging/dpg-indicators/5/frontier-tech-tips/</guid>
+      <description>This is a summary of a talk, &amp;#34;Uncharted waters: Documenting emerging technology&amp;#34;. It was given at DevConf 2020 in Brno, Czech Republic by Andrew Burden.
+ 1. Video      2. Abstract  We can’t help but feel the lure towards the hot new thing, especially when it comes to technology. Part of that lure is the breaking of ground, venturing into the unknown, and working on solutions to new problems.</description>
+    </item>
+    
+    <item>
+      <title>Good first issues</title>
+      <link>https://unicef.github.io/inventory-staging/dpg-indicators/8/good-first-issue/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://unicef.github.io/inventory-staging/dpg-indicators/8/good-first-issue/</guid>
+      <description>Flory, Justin W.
+    This Mission is a guide to making &amp;#34;good first issues&amp;#34; (shortened to G.F.I.&amp;#39;s) for your Open Source community. To create good GFIs, we will explore these Objectives for this Mission:
+  GFIs exist
+  Assignee ratio
+  Simple language
+  Actionable
+  Purpose
+  Deadlines
+  Low committment
+  References
+   1. GFIs exist The first requirement to having good GFIs is to… create GFIs!</description>
+    </item>
+    
+    <item>
+      <title>Governance</title>
+      <link>https://unicef.github.io/inventory-staging/dpg-indicators/3/governance/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://unicef.github.io/inventory-staging/dpg-indicators/3/governance/</guid>
+      <description>Table of Contents 1. What is Open Source governance? 2. Models 3. Examples 3.1. Linux kernel 3.2. Fedora Project   4. Resources 4.1. Exploratory 4.2. Journalism     This page defines and provides examples of Open Source governance. This includes Open Source project governance models, examples of other projects, frameworks for decision-making, and more.
+ This page is a work-in-progress. Check back later for future additions.
+ 1.</description>
+    </item>
+    
+    <item>
+      <title>GPLv2 vs. GPLv3</title>
+      <link>https://unicef.github.io/inventory-staging/dpg-indicators/2/gpl-comparison/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://unicef.github.io/inventory-staging/dpg-indicators/2/gpl-comparison/</guid>
+      <description>Table of Contents 1. Why update? Stallman’s objection to Tivoization 1.1. Other opinions   2. Legal overview 2.1. Anti-Circumvention Law 2.2. User Product rules 2.3. Cure period and the GPL Cooperation Commitment 2.4. &amp;#34;Legalese&amp;#34;     The information shared on this page does not constitute legal or financial advice.
+ This page provides an interpretation of the key differences between v2 and v3 of the GNU Public License, or G.</description>
+    </item>
+    
+    <item>
+      <title>Intro to Creative Commons licenses</title>
+      <link>https://unicef.github.io/inventory-staging/dpg-indicators/2/creative-commons/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://unicef.github.io/inventory-staging/dpg-indicators/2/creative-commons/</guid>
+      <description>Table of Contents 1. What are Creative Commons licenses? 2. Acceptable licenses for UNICEF Venture Fund 3. Free Cultural Works 3.1. Why does UNICEF prefer Free Culture licenses?   4. Resources   1. What are Creative Commons licenses? The Creative Commons licenses are a family of licenses meant for &amp;#34;open&amp;#34; content. The licenses are maintained by the Creative Commons, &amp;#34;a nonprofit organization that helps overcome legal obstacles to the sharing of knowledge and creativity to address the world’s pressing challenges.</description>
+    </item>
+    
+    <item>
+      <title>Issue templates</title>
+      <link>https://unicef.github.io/inventory-staging/dpg-indicators/8/project-management/issue-templates/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://unicef.github.io/inventory-staging/dpg-indicators/8/project-management/issue-templates/</guid>
+      <description>This guide is an introduction to issue templates in an Open Source project. While this guide is customized to GitHub, the advice provided here is general and can be applied to other collaboration platforms that offer templating. By the end of this guide, you will have a basic understanding of why issue templates are important and how to set up effective templates for your project. This guide is complementary to an agile or scrum workflow, if your team already uses one of these methods of project management.</description>
+    </item>
+    
+    <item>
+      <title>Licensing</title>
+      <link>https://unicef.github.io/inventory-staging/dpg-indicators/8/open-hardware/licensing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://unicef.github.io/inventory-staging/dpg-indicators/8/open-hardware/licensing/</guid>
+      <description>Table of Contents 1. Documentation 2. Licenses 2.1. Don’t Fear the Patent Clause!     This page collects information, resources, and other details about Open Hardware licensing.
+ 1. Documentation   Licensing and documentation: Learning material provided by Open Hardware Leaders program. Goal of material is to acquire best practices for hardware documentation and understand the different open licensing options available. Includes an explanation video and other helpful links.</description>
+    </item>
+    
+    <item>
+      <title>Machine Learning Model Card</title>
+      <link>https://unicef.github.io/inventory-staging/data/model-card/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://unicef.github.io/inventory-staging/data/model-card/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open Hardware reading list</title>
+      <link>https://unicef.github.io/inventory-staging/dpg-indicators/8/open-hardware/reading-list/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://unicef.github.io/inventory-staging/dpg-indicators/8/open-hardware/reading-list/</guid>
+      <description>A collection of various readings and articles related to Open Hardware.
+ 1. Innovation   How Low and Middle-Income Countries Are Innovating to Combat Covid, HBR.org: &amp;#34;One-fifth of the innovative solutions to fight the Covid-19 pandemic have emerged from low and middle-income countries, and these responses offer promising insights for how we think about, manage, and enable innovation. As the international community now faces the historic challenge of vaccinating the world, more attention and resources must be directed to the innovators who are developing technically novel, contextually relevant, and socially inclusive alternatives to mainstream innovation management practices.</description>
+    </item>
+    
+    <item>
+      <title>Open-first business approaches</title>
+      <link>https://unicef.github.io/inventory-staging/dpg-indicators/3/approaches/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://unicef.github.io/inventory-staging/dpg-indicators/3/approaches/</guid>
+      <description>Table of Contents 1. Asking the right question 2. Seven approaches for building Open works 2.1. Enterprise or targeted versions 2.2. Services around your product 2.3. Services are your product 2.4. Content 2.5. Packaging 2.6. Franchising 2.7. Training     This page collects information, best practices, and references about sustainable Open-first business approaches.
+ How do you build a sustainable business approach when you work Open? While the Open Source model of working is not completely new, it is a new way of working for many people who have not previously participated in highly collaborative, distributed communities.</description>
+    </item>
+    
+    <item>
+      <title>Outreach reading list</title>
+      <link>https://unicef.github.io/inventory-staging/dpg-indicators/8/project-management/reading-list/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://unicef.github.io/inventory-staging/dpg-indicators/8/project-management/reading-list/</guid>
+      <description>This reading list focuses on ways to promote and share your Open Source project with the world. Generally these resources are more helpful once you have built up the foundation for your Open Source project. You should have a game plan for community management in place before spending time on outreach.
+   What success really looks like in Open Source - Nadia Eghbal @nayafia
+   </description>
+    </item>
+    
+    <item>
+      <title>Policy guidance on AI for children (via unicef.org)</title>
+      <link>https://unicef.github.io/inventory-staging/data/policy-guidance-children/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://unicef.github.io/inventory-staging/data/policy-guidance-children/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Project boards</title>
+      <link>https://unicef.github.io/inventory-staging/dpg-indicators/8/project-management/project-boards/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://unicef.github.io/inventory-staging/dpg-indicators/8/project-management/project-boards/</guid>
+      <description>Table of Contents 1. About project boards 1.1. Why?   2. Case study: TeleIRC 3. Examples 4. Additional resources   This guide is an introduction to project boards for your open source project. By the end of this guide, you will have a basic understanding of how to run project planning in an open, transparent way to your community. What this guide is NOT is a guide to agile/scrum development.</description>
+    </item>
+    
+    <item>
+      <title>Project Hall of Fame</title>
+      <link>https://unicef.github.io/inventory-staging/dpg-indicators/8/open-hardware/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://unicef.github.io/inventory-staging/dpg-indicators/8/open-hardware/projects/</guid>
+      <description>This page collects various Open Hardware projects. These projects are not officially endorsed, but are listed here as a convenience to generate a list of examples for reference. For more detailed overviews, see the Case Studies page.
+ Check out the list of certified hardware from the Open Source Hardware Association for more inspiration.
+ 1. Businesses &amp;amp; companies   Adafruit Industries
+  Aleph Objects: Makers of LulzBot family of 3D printers.</description>
+    </item>
+    
+    <item>
+      <title>Public Lab</title>
+      <link>https://unicef.github.io/inventory-staging/dpg-indicators/8/communities/public-lab/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://unicef.github.io/inventory-staging/dpg-indicators/8/communities/public-lab/</guid>
+      <description>Public Lab is a community of practice that has informally collaborated with UNICEF Venture Fund team members in the past. To learn more about this community, reach out to your assigned Open Source Mentor or see the contact info below.
+ 1. About Public Lab  Access to knowledge is a fundamental right. When people want to investigate their environment, Public Lab is the place to go to find and share knowledge, equipment, and community.</description>
+    </item>
+    
+    <item>
+      <title>Reading list</title>
+      <link>https://unicef.github.io/inventory-staging/dpg-indicators/5/reading-list/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://unicef.github.io/inventory-staging/dpg-indicators/5/reading-list/</guid>
+      <description>Various readings on a variety of different topics related to different kinds of documentation.
+ 1. Basics   How to write effective documentation for your open source project: Documentation quality can make the difference in people trying your project or passing it by.
+  What is good documentation for software projects?: Mixing experienced tech writers with open source communities reveals new approaches for creating better docs.
+  Your step-by-step guide to more effective documentation - Lauri Apple (@LappleApple)</description>
+    </item>
+    
+    <item>
+      <title>Reading list: FOSS</title>
+      <link>https://unicef.github.io/inventory-staging/dpg-indicators/3/reading-list/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://unicef.github.io/inventory-staging/dpg-indicators/3/reading-list/</guid>
+      <description>Table of Contents 1. Foundations 2. Governance   Readings on a variety of topics about Free &amp;amp; Open Source Software.
+ 1. Foundations   Four Freedoms of Free Software: Before understanding anything else about Open Source, you must first understand the core foundation of what decades of Open Source development built upon: the Four Freedoms. The Four Freedoms can be remembered as the freedoms to Read, Run, Revise, &amp;amp; Redistribute.</description>
+    </item>
+    
+    <item>
+      <title>Reading List: Legal &amp; Business Aspects</title>
+      <link>https://unicef.github.io/inventory-staging/dpg-indicators/2/reading-list/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://unicef.github.io/inventory-staging/dpg-indicators/2/reading-list/</guid>
+      <description>Table of Contents 1. Foundations 2. Choosing a license 2.1. Choosing permissive 2.2. Choosing copyleft   3. Examples 3.1. Software licenses 3.2. Content licenses 3.3. Data licenses     This reading list is a collection of resources on legal and business aspects of open source. Legal and business aspects of an open source project are part of the foundation for building your project and community. The resources linked here are intended to give you a better idea of open source from a legal perspective.</description>
+    </item>
+    
+    <item>
+      <title>Stakeholder Mapping Exercise</title>
+      <link>https://unicef.github.io/inventory-staging/dpg-indicators/5/stakeholder-mapping/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://unicef.github.io/inventory-staging/dpg-indicators/5/stakeholder-mapping/</guid>
+      <description>Table of Contents 1. Introduction 2. Exercise 3. Template 4. Examples   Map key stakeholders and their roles. Create documentation that maps open source works to key stakeholders and their method of participation in the community.
+ 1. Introduction Stakeholder mapping is the process of identifying and visualizing the stakeholders in your open source project. This visual map can help you understand the composition and roles of the community that influences and builds your project.</description>
+    </item>
+    
+    <item>
+      <title>Text editors</title>
+      <link>https://unicef.github.io/inventory-staging/dpg-indicators/5/text-editors/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://unicef.github.io/inventory-staging/dpg-indicators/5/text-editors/</guid>
+      <description>This page is focused on educational resources, not strictly comparisons of editors.
+ 1. Vim   Interactive Vim tutorial: An interactive tutorial with several sections of common Vim actions.
+  VimGolf: Various take-home challenges of various actions in Vim to be completed in as few keystrokes as possible.
+  Game: Vim Adventures, an adventure game that helps you learn Vim as you play.
+     </description>
+    </item>
+    
+    <item>
+      <title>Trademark strategies</title>
+      <link>https://unicef.github.io/inventory-staging/dpg-indicators/2/trademark/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://unicef.github.io/inventory-staging/dpg-indicators/2/trademark/</guid>
+      <description>Table of Contents 1. What are trademarks? 2. Why trademarks matter in Open Source 2.1. Separating company and project trademarks: When to do it?   3. Case study: Business models &amp;amp; Moodle 4. Resources 4.1. Implementations &amp;amp; examples 4.2. Related readings 4.3. Templates &amp;amp; tools   5. Thanks   Launching an Open Source project has many considerations. Trademarks are one such consideration and are commonly misunderstood. However, trademarks are an important legal aspect of building a sustainable Open Source product and community.</description>
+    </item>
+    
+    <item>
+      <title>Workflow: Update external UNICEF metrics</title>
+      <link>https://unicef.github.io/inventory-staging/open-source-resources-and-best-practices/workflow-metrics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://unicef.github.io/inventory-staging/open-source-resources-and-best-practices/workflow-metrics/</guid>
+      <description>Open Source data and analytics are used across multiple tools and documents for talking about Venture Fund portfolio companies. When updating data sources in official UNICEF portals, follow this process for the quickest way of updating metrics.
+  Open data input source (e.g. Sharepoint doc, Google Doc shared with company, etc.)
+  Open Cauldron.io dashboard for company/project
+  Look at annual ranges first before doing quarterly ranges. Some metrics need to be collected manually for annual ranges:</description>
+    </item>
+    
+    <item>
+      <title>Workplan: Bridge Fund cohort</title>
+      <link>https://unicef.github.io/inventory-staging/open-source-resources-and-best-practices/workplan-bridge-funding/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://unicef.github.io/inventory-staging/open-source-resources-and-best-practices/workplan-bridge-funding/</guid>
+      <description>Table of Contents 1. Mission 2. Vision 3. Community 4. Timeline 4.1. Q1 4.2. Q2 4.3. Q3 4.4. Q4   5. References   This page documents the workplan requirements for the Bridge Fund cohort of the UNICEF Venture Fund. These graduation expectations are in place for UNICEF grantees receiving follow-on funding from UNICEF. See the table of contents for navigating.
+ 1. Mission Bridging humanitarian Open Source works and communities to the wider Open Source ecosystem.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>team on UNICEF O.S. Inventory</title>
+    <link>https://unicef.github.io/inventory-staging/categories/team/</link>
+    <description>Recent content in team on UNICEF O.S. Inventory</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Creative Commons BY-SA 4.0. Site theme maintained by UNICEF. Original theme, Dot, created by ThemeFisher.</copyright>
+    <lastBuildDate>Sun, 25 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://unicef.github.io/inventory-staging/categories/team/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Elsa Health</title>
+      <link>https://unicef.github.io/inventory-staging/cohorts/ds-ai/inspired-ideas/</link>
+      <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://unicef.github.io/inventory-staging/cohorts/ds-ai/inspired-ideas/</guid>
+      <description>Elsa Health develops AI-powered clinical decision support algorithms for healthcare providers in East Africa. These algorithms are delivered through the Elsa Health Assistant or integrated into existing health information platforms to provide disease identification, triage support, adherence prediction, and outbreak predictions. Elsa Health currently powers decisions for 10,000 patient visits per month.
+ </description>
+    </item>
+    
+    <item>
+      <title>OTTAA Project</title>
+      <link>https://unicef.github.io/inventory-staging/cohorts/ds-ai/ottaa-project/</link>
+      <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://unicef.github.io/inventory-staging/cohorts/ds-ai/ottaa-project/</guid>
+      <description>OTTAA Project is the first real intelligent AAC platform that uses environmental data and a powerful AI algorithm that in combination with a pictogram based communication code allows users to create sentences and communicate effectively every single day. This AI-powered alternative and augmentative communication tool allow users with disabilities to communicate, express their feelings and basic needs. The team directly responds to the challenge of fostering social inclusion for people with disabilities and ensuring effective communication for those with complex communication needs.</description>
+    </item>
+    
+    <item>
+      <title>VRapeutic</title>
+      <link>https://unicef.github.io/inventory-staging/cohorts/vr-ar/vrapeutic/</link>
+      <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://unicef.github.io/inventory-staging/cohorts/vr-ar/vrapeutic/</guid>
+      <description>VRapeutic develops virtual reality software modules specially tailored to instill cognitive, social, academic, and motor skills in children and young adults.
+ VRapeutic creates VR content for children diagnosed with ADHD and autism for skill-based learning. We do in months what is currently done in years, by realizing the potential of virtual reality-based rehabilitation in the field of learning and developmental disorders, such as autism, ADHD, cerebral palsy, in addition to others.</description>
+    </item>
+    
+    <item>
+      <title>BX Smart Labs</title>
+      <link>https://unicef.github.io/inventory-staging/cohorts/blockchain/bx-smart-labs/</link>
+      <pubDate>Sun, 25 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://unicef.github.io/inventory-staging/cohorts/blockchain/bx-smart-labs/</guid>
+      <description>Decentralised application for saving circles. The payments will be done on the blockchain allowing the saving circles to be built regardless of the location of the users. The smart contract will automatize the payments and withdrawals on each period ensuring the users receive their funds.
+ </description>
+    </item>
+    
+    <item>
+      <title>Kotani Pay</title>
+      <link>https://unicef.github.io/inventory-staging/cohorts/blockchain/kotani-pay/</link>
+      <pubDate>Sun, 25 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://unicef.github.io/inventory-staging/cohorts/blockchain/kotani-pay/</guid>
+      <description>Kotani Pay is a technology stack that enables blockchain protocols, dapps, and blockchain fintech companies to integrate seamlessly to local payment channels providing them with a reliable on ramp and off ramp service to reach a wider customer base in Africa. Kotani Pay serves as a friction-less bridge between cryptocurrency and fiat currencies and enables users to access the blockchain via USSD. The platform has 300 users to date and is live in Kenya.</description>
+    </item>
+    
+    <item>
+      <title>Leaf Global Fintech</title>
+      <link>https://unicef.github.io/inventory-staging/cohorts/blockchain/leaf-global-fintech/</link>
+      <pubDate>Sun, 25 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://unicef.github.io/inventory-staging/cohorts/blockchain/leaf-global-fintech/</guid>
+      <description>A virtual bank for vulnerable populations, allowing for the storage and transport of assets across borders from a mobile device (without a smartphone). Protects customers’ savings through blockchain technology without exposure to volatile cryptocurrencies. Identity is linked through biometric authentication so that a refugee could lose their documentation and still access their finances.
+ </description>
+    </item>
+    
+    <item>
+      <title>Rumsan</title>
+      <link>https://unicef.github.io/inventory-staging/cohorts/blockchain/rumsan/</link>
+      <pubDate>Sun, 25 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://unicef.github.io/inventory-staging/cohorts/blockchain/rumsan/</guid>
+      <description>Rumsan is a blockchain innovation company focused on social impact. Rahat, developed by Rumsan, is an open source blockchain-based CVA management system. Rahat manages and monitors the flow of transactions in aid distribution projects. With its real-time visibility to the flow of funds, Rahat builds transparency, accountability and financial inclusivity to maximize support for marginalized communities.
+ </description>
+    </item>
+    
+    <item>
+      <title>Treejer</title>
+      <link>https://unicef.github.io/inventory-staging/cohorts/blockchain/treejer/</link>
+      <pubDate>Sun, 25 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://unicef.github.io/inventory-staging/cohorts/blockchain/treejer/</guid>
+      <description>Treejer (trēʒər) is an open protocol connecting funders to rural planters worldwide. The project is experimenting with cutting-edge concepts such as decentralized finance (DeFi), non-fungible tokens (NFTs) and smart contracts to unlock new opportunities for climate finance, rural development and carbon credits. The team has on-boarded planters from over 10 countries located in the Latin America, Africa and Middle East. Users are enabled to make ecological and social impact even in unbanked communities.</description>
+    </item>
+    
+    <item>
+      <title>Xcapit</title>
+      <link>https://unicef.github.io/inventory-staging/cohorts/blockchain/xcapit/</link>
+      <pubDate>Sun, 25 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://unicef.github.io/inventory-staging/cohorts/blockchain/xcapit/</guid>
+      <description>A platform using blockchain for wealth management, including financial planning and financial education in a gamified way. The Xcapit team has built an open source and self-custodial wallet and onboarded over 14,000 users from LatAm, especially from Mexico and Argentina within the first 2 months after launching.
+ </description>
+    </item>
+    
+    <item>
+      <title>ScioXR</title>
+      <link>https://unicef.github.io/inventory-staging/cohorts/vr-ar/scioxr/</link>
+      <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://unicef.github.io/inventory-staging/cohorts/vr-ar/scioxr/</guid>
+      <description>Propter D.O.O are developing ScioXR, a VR/AR software platform that delivers immersive learning games and experiences that empower students to learn about the world around them.
+ Technology around us has gone a long way since the beginning of our millennium. Yet, most of our classrooms remain more or less the same as they were at the end of the 20th century. This especially applies to the STEM (Science, Technology, Engineering and Mathematics) field.</description>
+    </item>
+    
+  </channel>
+</rss>

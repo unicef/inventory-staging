@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>VR &#43; AR on UNICEF O.S. Inventory</title>
+    <link>https://unicef.github.io/inventory-staging/cohorts/vr-ar/</link>
+    <description>Recent content in VR &#43; AR on UNICEF O.S. Inventory</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Creative Commons BY-SA 4.0. Site theme maintained by UNICEF. Original theme, Dot, created by ThemeFisher.</copyright><atom:link href="https://unicef.github.io/inventory-staging/cohorts/vr-ar/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>VRapeutic</title>
+      <link>https://unicef.github.io/inventory-staging/cohorts/vr-ar/vrapeutic/</link>
+      <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://unicef.github.io/inventory-staging/cohorts/vr-ar/vrapeutic/</guid>
+      <description>VRapeutic develops virtual reality software modules specially tailored to instill cognitive, social, academic, and motor skills in children and young adults.
+ VRapeutic creates VR content for children diagnosed with ADHD and autism for skill-based learning. We do in months what is currently done in years, by realizing the potential of virtual reality-based rehabilitation in the field of learning and developmental disorders, such as autism, ADHD, cerebral palsy, in addition to others.</description>
+    </item>
+    
+    <item>
+      <title>ScioXR</title>
+      <link>https://unicef.github.io/inventory-staging/cohorts/vr-ar/scioxr/</link>
+      <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://unicef.github.io/inventory-staging/cohorts/vr-ar/scioxr/</guid>
+      <description>Propter D.O.O are developing ScioXR, a VR/AR software platform that delivers immersive learning games and experiences that empower students to learn about the world around them.
+ Technology around us has gone a long way since the beginning of our millennium. Yet, most of our classrooms remain more or less the same as they were at the end of the 20th century. This especially applies to the STEM (Science, Technology, Engineering and Mathematics) field.</description>
+    </item>
+    
+  </channel>
+</rss>

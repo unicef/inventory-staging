@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science &amp; AI on UNICEF O.S. Inventory</title>
+    <link>https://unicef.github.io/inventory-staging/cohorts/ds-ai/</link>
+    <description>Recent content in Data Science &amp; AI on UNICEF O.S. Inventory</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Creative Commons BY-SA 4.0. Site theme maintained by UNICEF. Original theme, Dot, created by ThemeFisher.</copyright><atom:link href="https://unicef.github.io/inventory-staging/cohorts/ds-ai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Elsa Health</title>
+      <link>https://unicef.github.io/inventory-staging/cohorts/ds-ai/inspired-ideas/</link>
+      <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://unicef.github.io/inventory-staging/cohorts/ds-ai/inspired-ideas/</guid>
+      <description>Elsa Health develops AI-powered clinical decision support algorithms for healthcare providers in East Africa. These algorithms are delivered through the Elsa Health Assistant or integrated into existing health information platforms to provide disease identification, triage support, adherence prediction, and outbreak predictions. Elsa Health currently powers decisions for 10,000 patient visits per month.
+ </description>
+    </item>
+    
+    <item>
+      <title>OTTAA Project</title>
+      <link>https://unicef.github.io/inventory-staging/cohorts/ds-ai/ottaa-project/</link>
+      <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://unicef.github.io/inventory-staging/cohorts/ds-ai/ottaa-project/</guid>
+      <description>OTTAA Project is the first real intelligent AAC platform that uses environmental data and a powerful AI algorithm that in combination with a pictogram based communication code allows users to create sentences and communicate effectively every single day. This AI-powered alternative and augmentative communication tool allow users with disabilities to communicate, express their feelings and basic needs. The team directly responds to the challenge of fostering social inclusion for people with disabilities and ensuring effective communication for those with complex communication needs.</description>
+    </item>
+    
+  </channel>
+</rss>

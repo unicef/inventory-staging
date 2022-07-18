@@ -1,0 +1,735 @@
+<!DOCTYPE html>
+<html lang="en-us">
+	<head>
+		<meta charset="utf-8">
+		<title>BX Smart Labs</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1"/>
+		<meta name="generator" content="Hugo 0.96.0" />
+		<meta name="description" content="BX Smart Labs - UNICEF O.S. Inventory ">
+		<!-- ** CSS Plugins Needed for the Project ** -->
+		<!-- Bootstrap -->
+		<link rel="stylesheet" href="https://unicef.github.io/inventory-staging/plugins/bootstrap/bootstrap.min.css">
+		<!-- themefy-icon -->
+		<link rel="stylesheet" href="https://unicef.github.io/inventory-staging/plugins/themify-icons/themify-icons.css">
+		<!-- drones-categories-icon -->
+		<link rel="stylesheet" href="https://unicef.github.io/inventory-staging/plugins/drone-dpgtoolkit-icons/icons.css">
+		<!--Favicon-->
+		<link rel="icon" href="https://unicef.github.io/inventory-staging/images/favicon.png" type="image/x-icon">
+		<!-- fonts -->
+		<link href="https://fonts.googleapis.com/css?family=Open%2bSans:300,400,700&display=swap" rel="stylesheet">
+		<!-- PDF.js -->
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.9.359/pdf.min.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/html2pdf.js/0.9.3/html2pdf.bundle.js"></script>
+		<!-- fonts -->
+		<script src="https://kit.fontawesome.com/9196e0632a.js" crossorigin="anonymous"></script>
+		<style>
+			:root{
+			  --primary-color:#1CABE2;
+			  --primary-color-light:#1b66b1;
+			  --body-color:#f2f4f6;
+			  --text-color:#636363;
+			  --text-color-dark:#374ea2;
+			  --text-title-color:#ffffff;
+			  --white-color:#ffffff;
+			  --light-color:#f8f9fa;
+			  --font-family:Open+Sans;
+			}
+		</style>
+		<!-- Main Stylesheet -->
+		<link href="https://unicef.github.io/inventory-staging/css/style.min.css" rel="stylesheet" media="screen"/>
+		<!-- ** JS Plugins Needed for the Project ** -->
+		<!-- jquiry -->
+		<script src="https://unicef.github.io/inventory-staging/plugins/jquery/jquery-1.12.4.js"></script>
+		<!-- jquary ui -->
+		<script src="https://unicef.github.io/inventory-staging/plugins/jquery/jquery-ui.js"></script>
+		<!-- Bootstrap JS -->
+		<script src="https://unicef.github.io/inventory-staging/plugins/bootstrap/bootstrap.min.js"></script>
+		<!-- PopperJS -->
+		<script src="https://unpkg.com/@popperjs/core@2"></script>
+		<!-- match-height JS -->
+		<script src="https://unicef.github.io/inventory-staging/plugins/match-height/jquery.matchHeight-min.js"></script>
+		<script async src="https://www.googletagmanager.com/gtag/js?id=G-80FMX4TPM0"></script>
+		<script>
+			var doNotTrack = false;
+			if (!doNotTrack) {
+				window.dataLayer = window.dataLayer || [];
+				function gtag(){dataLayer.push(arguments);}
+				gtag('js', new Date());
+				gtag('config', 'G-80FMX4TPM0', { 'anonymize_ip': false });
+			}
+		</script>
+		<!-- create /layouts/partials/overrides/header.html in your own theme or root directory to add your custom content here -->
+		<meta property="og:image" content="https://unicef.github.io/inventory-staging/images/UNI309823.jpg" />
+		<meta name="twitter:image" content="https://unicef.github.io/inventory-staging/images/UNI309823.jpg"/>
+		<meta name="twitter:card" content="summary_large_image">
+		<meta property="og:image:width" content="1440">
+		<meta property="og:image:height" content="960">
+		<meta property="og:image:type" content="image/jpeg">
+		<meta name="twitter:title" content="BX Smart Labs"/>
+		<meta name="twitter:description" content="Decentralized application that empowers users to create savings circles, generating trust among participants using smart contracts."/>
+		<meta property="og:title" content="BX Smart Labs" />
+		<meta property="og:description" content="Decentralized application that empowers users to create savings circles, generating trust among participants using smart contracts." />
+		<meta property="og:type" content="article" />
+		<meta property="og:url" content="https://unicef.github.io/inventory-staging/cohorts/blockchain/bx-smart-labs/" /><meta property="article:section" content="cohorts" />
+		<meta property="article:published_time" content="2021-07-25T00:00:00+00:00" />
+		<meta property="article:modified_time" content="2022-07-14T03:02:48+05:30" />
+		<meta name="twitter:card" content="summary"/>
+		<meta name="twitter:title" content="BX Smart Labs"/>
+		<meta name="twitter:description" content="Decentralized application that empowers users to create savings circles, generating trust among participants using smart contracts."/>
+	</head>
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+	<body>
+		<!-- header -->
+		<header class="shadow-bottom sticky-top bg-white">
+			<nav class="navbar navbar-expand-md navbar-dark d-flex flex-column p-0" style=" background-color: #1CABE2">
+				<div class="w-100 container mx-0 navigation-bar">
+					<div id="site-brand">
+						<a class="navbar-brand px-2"
+        href="https://www.unicef.org/">
+							<div class="text-center nav-heading">
+								<img class="img-fluid nav-img" src="https://unicef.github.io/inventory-staging/images/unicef-logo.png" alt="UNICEF O.S. Inventory">
+								<a class="d-block nav-title" href="/inventory-staging">UNICEF O.S. Inventory</a>
+							</div>
+						</a>
+					</div>
+					<a class="navbar-toggler border-0" type="button" data-toggle="collapse" data-target="#navigation"
+      aria-controls="navigation" aria-expanded="false" aria-label="Toggle navigation">
+						<span class="sidebarIcon navbarMenu">Menu<i class="fa-solid fa-caret-down d-inline p-1"></i>
+						</span>
+					</a>
+					<div class="collapse navbar-collapse text-center" id="navigation">
+						<ul class="navbar-nav ml-auto">
+							<li class="nav-item">
+								<a class="nav-link text-white" href="https://unicef.github.io/inventory-staging/faq">FAQ</a>
+							</li>
+							<li class="nav-item dropdown">
+								<a class="nav-link dropdown-toggle text-white" href="#" role="button" data-toggle="dropdown"
+            aria-haspopup="true" aria-expanded="false">
+									toolkits
+								</a>
+								<div class="dropdown-menu">
+									<a class="dropdown-item" href="https://unicef.github.io/ooi-toolkit-ds/">Data Science &amp; A.I.</a>
+									<a class="dropdown-item" href="https://unicef.github.io/ooi-toolkit-software/">Software Development</a>
+								</div>
+							</li>
+							<li class="nav-item dropdown">
+								<a class="nav-link dropdown-toggle text-white" href="#" role="button" data-toggle="dropdown"
+            aria-haspopup="true" aria-expanded="false">
+									pages
+								</a>
+								<div class="dropdown-menu">
+									<a class="dropdown-item" href="https://unicef.github.io/inventory-staging/communities">Communities</a>
+									<a class="dropdown-item" href="https://unicef.github.io/inventory-staging/data">Data Ethics &amp; Transparency</a>
+									<a class="dropdown-item" href="https://unicef.github.io/inventory-staging/dev-tools">Developer Tools &amp; Automation</a>
+									<a class="dropdown-item" href="https://unicef.github.io/inventory-staging/documentation">Documentation</a>
+									<a class="dropdown-item" href="https://unicef.github.io/inventory-staging/governance">Governance</a>
+									<a class="dropdown-item" href="https://unicef.github.io/inventory-staging/legal-policy">Legal &amp; Policy</a>
+									<a class="dropdown-item" href="https://unicef.github.io/inventory-staging/meta">Meta</a>
+									<a class="dropdown-item" href="https://unicef.github.io/inventory-staging/missions">Missions</a>
+									<a class="dropdown-item" href="https://unicef.github.io/inventory-staging/hardware">Open Hardware</a>
+									<a class="dropdown-item" href="https://unicef.github.io/inventory-staging/project-management">Project Management</a>
+									<a class="dropdown-item" href="https://unicef.github.io/inventory-staging/reproducibility">Reproducibility</a>
+									<a class="dropdown-item" href="https://unicef.github.io/inventory-staging/sustainability">Sustainability</a>
+								</div>
+							</li>
+							<li class="nav-item dropdown">
+								<a class="nav-link dropdown-toggle text-white" href="#" role="button" data-toggle="dropdown"
+            aria-haspopup="true" aria-expanded="false">
+									cohorts
+								</a>
+								<div class="dropdown-menu">
+									<a class="dropdown-item" href="https://unicef.github.io/inventory-staging/cohorts">All</a>
+									<a class="dropdown-item" href="https://unicef.github.io/inventory-staging/cohorts/blockchain">Blockchain</a>
+									<a class="dropdown-item" href="https://unicef.github.io/inventory-staging/cohorts/ds-ai">Data Science &amp; AI</a>
+									<a class="dropdown-item" href="https://unicef.github.io/inventory-staging/cohorts/drones">Drones</a>
+									<a class="dropdown-item" href="https://unicef.github.io/inventory-staging/cohorts/vr-ar">VR &#43; AR</a>
+									<a class="dropdown-item" href="https://unicef.github.io/inventory-staging/cohorts/others">Others</a>
+								</div>
+							</li>
+						</ul>
+						<select class="lang-list bg-primary mb-3 mb-md-0" id="select-language"
+        onchange="location = this.value;">
+							<option id="en" value="https://unicef.github.io/inventory-staging/cohorts/blockchain/bx-smart-labs/" selected>en
+							</option>
+						</select>
+						<p class="text-white unicef-glob ml-4 mt-3">Visit <a href="https://www.unicef.org/" class="text-white">UNICEF Global <i
+        class="fas fa-angle-double-right"></i></a></p>
+					</div>
+				</div>
+				<div class="w-100 py-2 breadcrumbBar text-light" style=" background-color: #374ea2">
+					<div class="container">
+						<div class="breadcrumbs">
+							<a href="https://unicef.github.io/inventory-staging/">Home</a>
+							&gt; <a href="https://unicef.github.io/inventory-staging/cohorts" class="breadcrumbLink">cohorts</a>
+							&gt; <a href="https://unicef.github.io/inventory-staging/cohorts/blockchain" class="breadcrumbLink">blockchain</a>
+							&gt; <a href="https://unicef.github.io/inventory-staging/cohorts/blockchain/bx-smart-labs" class="breadcrumbLink">bx-smart-labs</a>
+						</div>
+						<a data-toggle="collapse" data-target="#sidebarMobile"  aria-controls="navigation" aria-expanded="false" aria-label="Toggle navigation"> <i class="ti-menu text-light sidebarIcon"></i></a>
+						<div class="text-light text-center sidebarMobile collapse justify-content-center" id="sidebarMobile">
+							<div class="sidebarBox">
+								<ul>
+									<li data-nav-id="https://unicef.github.io/inventory-staging/cohorts/" title="Cohorts" class="sidelist
+  ">
+										<a href="/inventory-staging" class="d-inline  back-btn">
+											<i class="ti-back-right"></i>
+										</a>
+										<a href="https://unicef.github.io/inventory-staging/cohorts/" class="font-weight-bold d-inline">
+											Cohorts
+										</a>
+										<div class="accordion" id="accordionExample">
+											<ul>
+												<li data-nav-id="https://unicef.github.io/inventory-staging/cohorts/blockchain/" title="Blockchain" class="sidelist
+  ">
+													<div class="container">
+														<div class="row">
+															<div class="col-10">
+																<a href="https://unicef.github.io/inventory-staging/cohorts/blockchain/" class="">
+																	Blockchain
+																</a>
+															</div>
+															<div class="col-2 ">
+																<i class="fas fa-chevron-down align-middle" type="button" data-toggle="collapse" data-target="#collapsee3ff85a0949ac0321dc9c49f9f1a4c65" aria-expanded="false" aria-controls='collapsee3ff85a0949ac0321dc9c49f9f1a4c65'>
+																</i>
+															</div>
+														</div>
+														<div id='collapsee3ff85a0949ac0321dc9c49f9f1a4c65' class="collapse" aria-labelledby="headinge3ff85a0949ac0321dc9c49f9f1a4c65" data-parent="#accordionExample">
+															<div class="sidebar-scroll">
+																<ul>
+																	<li data-nav-id="https://unicef.github.io/inventory-staging/cohorts/blockchain/bx-smart-labs/" title="BX Smart Labs" class="sidelist
+  active">
+																		<div class="container">
+																			<div class="row">
+																				<div class="col-10">
+																					<a href="https://unicef.github.io/inventory-staging/cohorts/blockchain/bx-smart-labs/" class="">
+																						BX Smart Labs
+																					</a>
+																				</div>
+																			</div>
+																		</li>
+																		<li data-nav-id="https://unicef.github.io/inventory-staging/cohorts/blockchain/kotani-pay/" title="Kotani Pay" class="sidelist
+  ">
+																			<div class="container">
+																				<div class="row">
+																					<div class="col-10">
+																						<a href="https://unicef.github.io/inventory-staging/cohorts/blockchain/kotani-pay/" class="">
+																							Kotani Pay
+																						</a>
+																					</div>
+																				</div>
+																			</li>
+																			<li data-nav-id="https://unicef.github.io/inventory-staging/cohorts/blockchain/leaf-global-fintech/" title="Leaf Global Fintech" class="sidelist
+  ">
+																				<div class="container">
+																					<div class="row">
+																						<div class="col-10">
+																							<a href="https://unicef.github.io/inventory-staging/cohorts/blockchain/leaf-global-fintech/" class="">
+																								Leaf Global Fintech
+																							</a>
+																						</div>
+																					</div>
+																				</li>
+																				<li data-nav-id="https://unicef.github.io/inventory-staging/cohorts/blockchain/rumsan/" title="Rumsan" class="sidelist
+  ">
+																					<div class="container">
+																						<div class="row">
+																							<div class="col-10">
+																								<a href="https://unicef.github.io/inventory-staging/cohorts/blockchain/rumsan/" class="">
+																									Rumsan
+																								</a>
+																							</div>
+																						</div>
+																					</li>
+																					<li data-nav-id="https://unicef.github.io/inventory-staging/cohorts/blockchain/treejer/" title="Treejer" class="sidelist
+  ">
+																						<div class="container">
+																							<div class="row">
+																								<div class="col-10">
+																									<a href="https://unicef.github.io/inventory-staging/cohorts/blockchain/treejer/" class="">
+																										Treejer
+																									</a>
+																								</div>
+																							</div>
+																						</li>
+																						<li data-nav-id="https://unicef.github.io/inventory-staging/cohorts/blockchain/xcapit/" title="Xcapit" class="sidelist
+  ">
+																							<div class="container">
+																								<div class="row">
+																									<div class="col-10">
+																										<a href="https://unicef.github.io/inventory-staging/cohorts/blockchain/xcapit/" class="">
+																											Xcapit
+																										</a>
+																									</div>
+																								</div>
+																							</li>
+																						</ul>
+																					</div>
+																				</div>
+																			</li>
+																			<li data-nav-id="https://unicef.github.io/inventory-staging/cohorts/ds-ai/" title="Data Science &amp; AI" class="sidelist
+  ">
+																				<div class="container">
+																					<div class="row">
+																						<div class="col-10">
+																							<a href="https://unicef.github.io/inventory-staging/cohorts/ds-ai/" class="">
+																								Data Science &amp; AI
+																							</a>
+																						</div>
+																						<div class="col-2 ">
+																							<i class="fas fa-chevron-down align-middle" type="button" data-toggle="collapse" data-target="#collapse1a3eac86f9dff904f9905c4a3c1c9542" aria-expanded="false" aria-controls='collapse1a3eac86f9dff904f9905c4a3c1c9542'>
+																							</i>
+																						</div>
+																					</div>
+																					<div id='collapse1a3eac86f9dff904f9905c4a3c1c9542' class="collapse" aria-labelledby="heading1a3eac86f9dff904f9905c4a3c1c9542" data-parent="#accordionExample">
+																						<div class="sidebar-scroll">
+																							<ul>
+																								<li data-nav-id="https://unicef.github.io/inventory-staging/cohorts/ds-ai/inspired-ideas/" title="Elsa Health" class="sidelist
+  ">
+																									<div class="container">
+																										<div class="row">
+																											<div class="col-10">
+																												<a href="https://unicef.github.io/inventory-staging/cohorts/ds-ai/inspired-ideas/" class="">
+																													Elsa Health
+																												</a>
+																											</div>
+																										</div>
+																									</li>
+																									<li data-nav-id="https://unicef.github.io/inventory-staging/cohorts/ds-ai/ottaa-project/" title="OTTAA Project" class="sidelist
+  ">
+																										<div class="container">
+																											<div class="row">
+																												<div class="col-10">
+																													<a href="https://unicef.github.io/inventory-staging/cohorts/ds-ai/ottaa-project/" class="">
+																														OTTAA Project
+																													</a>
+																												</div>
+																											</div>
+																										</li>
+																									</ul>
+																								</div>
+																							</div>
+																						</li>
+																						<li data-nav-id="https://unicef.github.io/inventory-staging/cohorts/drones/" title="Drones" class="sidelist
+  ">
+																							<div class="container">
+																								<div class="row">
+																									<div class="col-10">
+																										<a href="https://unicef.github.io/inventory-staging/cohorts/drones/" class="">
+																											Drones
+																										</a>
+																									</div>
+																								</div>
+																							</li>
+																							<li data-nav-id="https://unicef.github.io/inventory-staging/cohorts/others/" title="Others" class="sidelist
+  ">
+																								<div class="container">
+																									<div class="row">
+																										<div class="col-10">
+																											<a href="https://unicef.github.io/inventory-staging/cohorts/others/" class="">
+																												Others
+																											</a>
+																										</div>
+																									</div>
+																								</li>
+																								<li data-nav-id="https://unicef.github.io/inventory-staging/cohorts/vr-ar/" title="VR &#43; AR" class="sidelist
+  ">
+																									<div class="container">
+																										<div class="row">
+																											<div class="col-10">
+																												<a href="https://unicef.github.io/inventory-staging/cohorts/vr-ar/" class="">
+																													VR &#43; AR
+																												</a>
+																											</div>
+																											<div class="col-2 ">
+																												<i class="fas fa-chevron-down align-middle" type="button" data-toggle="collapse" data-target="#collapsef4c091992f5a0ff53ca4a391c8e694dc" aria-expanded="false" aria-controls='collapsef4c091992f5a0ff53ca4a391c8e694dc'>
+																												</i>
+																											</div>
+																										</div>
+																										<div id='collapsef4c091992f5a0ff53ca4a391c8e694dc' class="collapse" aria-labelledby="headingf4c091992f5a0ff53ca4a391c8e694dc" data-parent="#accordionExample">
+																											<div class="sidebar-scroll">
+																												<ul>
+																													<li data-nav-id="https://unicef.github.io/inventory-staging/cohorts/vr-ar/vrapeutic/" title="VRapeutic" class="sidelist
+  ">
+																														<div class="container">
+																															<div class="row">
+																																<div class="col-10">
+																																	<a href="https://unicef.github.io/inventory-staging/cohorts/vr-ar/vrapeutic/" class="">
+																																		VRapeutic
+																																	</a>
+																																</div>
+																															</div>
+																														</li>
+																														<li data-nav-id="https://unicef.github.io/inventory-staging/cohorts/vr-ar/scioxr/" title="ScioXR" class="sidelist
+  ">
+																															<div class="container">
+																																<div class="row">
+																																	<div class="col-10">
+																																		<a href="https://unicef.github.io/inventory-staging/cohorts/vr-ar/scioxr/" class="">
+																																			ScioXR
+																																		</a>
+																																	</div>
+																																</div>
+																															</li>
+																														</ul>
+																													</div>
+																												</div>
+																											</li>
+																										</ul>
+																									</div>
+																								</li>
+																							</ul>
+																						</div>
+																					</div>
+																				</div>
+																			</div>
+																		</nav>
+																	</header>
+																	<!-- /header -->
+																	<section class="single section-sm" id="section">
+																		<div class="d-flex w-100">
+																			<div class="sidebarContainer">
+																				<div class="sidebar">
+																					<ul>
+																						<li data-nav-id="https://unicef.github.io/inventory-staging/cohorts/" title="Cohorts" class="sidelist
+  ">
+																							<a href="/inventory-staging" class="d-inline  back-btn">
+																								<i class="ti-back-right"></i>
+																							</a>
+																							<a href="https://unicef.github.io/inventory-staging/cohorts/" class="font-weight-bold d-inline">
+																								Cohorts
+																							</a>
+																							<div class="accordion" id="accordionExample">
+																								<ul>
+																									<li data-nav-id="https://unicef.github.io/inventory-staging/cohorts/blockchain/" title="Blockchain" class="sidelist
+  ">
+																										<div class="container">
+																											<div class="row">
+																												<div class="col-10">
+																													<a href="https://unicef.github.io/inventory-staging/cohorts/blockchain/" class="">
+																														Blockchain
+																													</a>
+																												</div>
+																												<div class="col-2 ">
+																													<i class="fas fa-chevron-down align-middle" type="button" data-toggle="collapse" data-target="#collapsea9543c94992cf096ae35df81cfacf014" aria-expanded="false" aria-controls='collapsea9543c94992cf096ae35df81cfacf014'>
+																													</i>
+																												</div>
+																											</div>
+																											<div id='collapsea9543c94992cf096ae35df81cfacf014' class="collapse" aria-labelledby="headinga9543c94992cf096ae35df81cfacf014" data-parent="#accordionExample">
+																												<div class="sidebar-scroll">
+																													<ul>
+																														<li data-nav-id="https://unicef.github.io/inventory-staging/cohorts/blockchain/bx-smart-labs/" title="BX Smart Labs" class="sidelist
+  active">
+																															<div class="container">
+																																<div class="row">
+																																	<div class="col-10">
+																																		<a href="https://unicef.github.io/inventory-staging/cohorts/blockchain/bx-smart-labs/" class="">
+																																			BX Smart Labs
+																																		</a>
+																																	</div>
+																																</div>
+																															</li>
+																															<li data-nav-id="https://unicef.github.io/inventory-staging/cohorts/blockchain/kotani-pay/" title="Kotani Pay" class="sidelist
+  ">
+																																<div class="container">
+																																	<div class="row">
+																																		<div class="col-10">
+																																			<a href="https://unicef.github.io/inventory-staging/cohorts/blockchain/kotani-pay/" class="">
+																																				Kotani Pay
+																																			</a>
+																																		</div>
+																																	</div>
+																																</li>
+																																<li data-nav-id="https://unicef.github.io/inventory-staging/cohorts/blockchain/leaf-global-fintech/" title="Leaf Global Fintech" class="sidelist
+  ">
+																																	<div class="container">
+																																		<div class="row">
+																																			<div class="col-10">
+																																				<a href="https://unicef.github.io/inventory-staging/cohorts/blockchain/leaf-global-fintech/" class="">
+																																					Leaf Global Fintech
+																																				</a>
+																																			</div>
+																																		</div>
+																																	</li>
+																																	<li data-nav-id="https://unicef.github.io/inventory-staging/cohorts/blockchain/rumsan/" title="Rumsan" class="sidelist
+  ">
+																																		<div class="container">
+																																			<div class="row">
+																																				<div class="col-10">
+																																					<a href="https://unicef.github.io/inventory-staging/cohorts/blockchain/rumsan/" class="">
+																																						Rumsan
+																																					</a>
+																																				</div>
+																																			</div>
+																																		</li>
+																																		<li data-nav-id="https://unicef.github.io/inventory-staging/cohorts/blockchain/treejer/" title="Treejer" class="sidelist
+  ">
+																																			<div class="container">
+																																				<div class="row">
+																																					<div class="col-10">
+																																						<a href="https://unicef.github.io/inventory-staging/cohorts/blockchain/treejer/" class="">
+																																							Treejer
+																																						</a>
+																																					</div>
+																																				</div>
+																																			</li>
+																																			<li data-nav-id="https://unicef.github.io/inventory-staging/cohorts/blockchain/xcapit/" title="Xcapit" class="sidelist
+  ">
+																																				<div class="container">
+																																					<div class="row">
+																																						<div class="col-10">
+																																							<a href="https://unicef.github.io/inventory-staging/cohorts/blockchain/xcapit/" class="">
+																																								Xcapit
+																																							</a>
+																																						</div>
+																																					</div>
+																																				</li>
+																																			</ul>
+																																		</div>
+																																	</div>
+																																</li>
+																																<li data-nav-id="https://unicef.github.io/inventory-staging/cohorts/ds-ai/" title="Data Science &amp; AI" class="sidelist
+  ">
+																																	<div class="container">
+																																		<div class="row">
+																																			<div class="col-10">
+																																				<a href="https://unicef.github.io/inventory-staging/cohorts/ds-ai/" class="">
+																																					Data Science &amp; AI
+																																				</a>
+																																			</div>
+																																			<div class="col-2 ">
+																																				<i class="fas fa-chevron-down align-middle" type="button" data-toggle="collapse" data-target="#collapsecf0cf4619effd3843199a4ac92c559a0" aria-expanded="false" aria-controls='collapsecf0cf4619effd3843199a4ac92c559a0'>
+																																				</i>
+																																			</div>
+																																		</div>
+																																		<div id='collapsecf0cf4619effd3843199a4ac92c559a0' class="collapse" aria-labelledby="headingcf0cf4619effd3843199a4ac92c559a0" data-parent="#accordionExample">
+																																			<div class="sidebar-scroll">
+																																				<ul>
+																																					<li data-nav-id="https://unicef.github.io/inventory-staging/cohorts/ds-ai/inspired-ideas/" title="Elsa Health" class="sidelist
+  ">
+																																						<div class="container">
+																																							<div class="row">
+																																								<div class="col-10">
+																																									<a href="https://unicef.github.io/inventory-staging/cohorts/ds-ai/inspired-ideas/" class="">
+																																										Elsa Health
+																																									</a>
+																																								</div>
+																																							</div>
+																																						</li>
+																																						<li data-nav-id="https://unicef.github.io/inventory-staging/cohorts/ds-ai/ottaa-project/" title="OTTAA Project" class="sidelist
+  ">
+																																							<div class="container">
+																																								<div class="row">
+																																									<div class="col-10">
+																																										<a href="https://unicef.github.io/inventory-staging/cohorts/ds-ai/ottaa-project/" class="">
+																																											OTTAA Project
+																																										</a>
+																																									</div>
+																																								</div>
+																																							</li>
+																																						</ul>
+																																					</div>
+																																				</div>
+																																			</li>
+																																			<li data-nav-id="https://unicef.github.io/inventory-staging/cohorts/drones/" title="Drones" class="sidelist
+  ">
+																																				<div class="container">
+																																					<div class="row">
+																																						<div class="col-10">
+																																							<a href="https://unicef.github.io/inventory-staging/cohorts/drones/" class="">
+																																								Drones
+																																							</a>
+																																						</div>
+																																					</div>
+																																				</li>
+																																				<li data-nav-id="https://unicef.github.io/inventory-staging/cohorts/others/" title="Others" class="sidelist
+  ">
+																																					<div class="container">
+																																						<div class="row">
+																																							<div class="col-10">
+																																								<a href="https://unicef.github.io/inventory-staging/cohorts/others/" class="">
+																																									Others
+																																								</a>
+																																							</div>
+																																						</div>
+																																					</li>
+																																					<li data-nav-id="https://unicef.github.io/inventory-staging/cohorts/vr-ar/" title="VR &#43; AR" class="sidelist
+  ">
+																																						<div class="container">
+																																							<div class="row">
+																																								<div class="col-10">
+																																									<a href="https://unicef.github.io/inventory-staging/cohorts/vr-ar/" class="">
+																																										VR &#43; AR
+																																									</a>
+																																								</div>
+																																								<div class="col-2 ">
+																																									<i class="fas fa-chevron-down align-middle" type="button" data-toggle="collapse" data-target="#collapse955f1dc2930ca9a14e08f949c4afc6f3" aria-expanded="false" aria-controls='collapse955f1dc2930ca9a14e08f949c4afc6f3'>
+																																									</i>
+																																								</div>
+																																							</div>
+																																							<div id='collapse955f1dc2930ca9a14e08f949c4afc6f3' class="collapse" aria-labelledby="heading955f1dc2930ca9a14e08f949c4afc6f3" data-parent="#accordionExample">
+																																								<div class="sidebar-scroll">
+																																									<ul>
+																																										<li data-nav-id="https://unicef.github.io/inventory-staging/cohorts/vr-ar/vrapeutic/" title="VRapeutic" class="sidelist
+  ">
+																																											<div class="container">
+																																												<div class="row">
+																																													<div class="col-10">
+																																														<a href="https://unicef.github.io/inventory-staging/cohorts/vr-ar/vrapeutic/" class="">
+																																															VRapeutic
+																																														</a>
+																																													</div>
+																																												</div>
+																																											</li>
+																																											<li data-nav-id="https://unicef.github.io/inventory-staging/cohorts/vr-ar/scioxr/" title="ScioXR" class="sidelist
+  ">
+																																												<div class="container">
+																																													<div class="row">
+																																														<div class="col-10">
+																																															<a href="https://unicef.github.io/inventory-staging/cohorts/vr-ar/scioxr/" class="">
+																																																ScioXR
+																																															</a>
+																																														</div>
+																																													</div>
+																																												</li>
+																																											</ul>
+																																										</div>
+																																									</div>
+																																								</li>
+																																							</ul>
+																																						</div>
+																																					</li>
+																																				</ul>
+																																			</div>
+																																		</div>
+																																		<div class="contentContainer py-5 px-5">
+																																			<div class="p-lg-5 p-4 bg-white position-relative mx-5 my-3 w-100 contentBox" id="content">
+																																				<h2 class="mb-5" id="title">BX Smart Labs</h2>
+																																				<div class="content">
+																																					<h2>About</h2>
+																																					<p>
+																																						<div class="paragraph">
+																																							<p>Decentralised application for saving circles.
+																																								The payments will be done on the blockchain allowing the saving circles to be built regardless of the location of the users.
+																																								The smart contract will automatize the payments and withdrawals on each period ensuring the users receive their funds.</p>
+																																						</div>
+																																					</p>
+																																				</div>
+																																				<div>
+																																					<h2>DPG Indicators</h2>
+																																					<p>The Digital Public Goods Standard is a set of specifications and guidelines designed to maximise consensus about whether a digital solution conforms to the definition set by the UN Secretary-General in the 2020 Roadmap for Digital Cooperation, which states that a DPG, “is open source software, open data, open AI models, open standards and open content that adhere to privacy and other applicable best practices, do no harm and are of high relevance for attainment of the UN’s 2030 Sustainable Development Goals (SDGs)”. Learn more about the DPG <a href="https://digitalpublicgoods.net/standard/">here</a>.</p>
+																																					<p>Below are the DPG indicators BX Smart Labs has met:</p>
+																																					<ul>
+																																						<li><i class="fa fa-check mr-2" aria-hidden="true"></i>Relevance to Sustainable Development Goals</li>
+																																						<li><i class="fa fa-check mr-2" aria-hidden="true"></i>Use of Approved Open Licenses</li>
+																																					</ul>
+																																				</div>
+																																				<div class="mt-5">
+																																					<h2>Aligned SDGs</h2>
+																																					<div>
+																																						<img src="https://unicef.github.io/inventory-staging/images/sdgs/sdg5.png" class="w-25 h-25" alt="SDG 5" />
+																																						<img src="https://unicef.github.io/inventory-staging/images/sdgs/sdg8.png" class="w-25 h-25" alt="SDG 8" />
+																																					</div>
+																																				</div>
+																																				<div class="mt-5">
+																																					<h2>Learn more</h2>
+																																					<div>
+																																						<p><a href="https://github.com/Bloinx"><i class="fa fa-github fa-2x"></i></a> Checkout our GitHub <a href="https://github.com/Bloinx">repo</a>  </p>
+																																					</div>
+																																					<div>
+																																						<p><a href="https://twitter.com/BXSmartLabs"><i class="fa fa-twitter fa-2x"></i></a> Follow us on <a href="https://twitter.com/BXSmartLabs">twitter</a>  </p>
+																																					</div>
+																																					<div>
+																																						<p><a href="https://www.linkedin.com/company/bx-smart-labs/"><i class="fa fa-linkedin fa-2x"></i></a> Connect with us on <a href="https://www.linkedin.com/company/bx-smart-labs/">linkedin</a>  </p>
+																																					</div>
+																																					<div>
+																																						<p><a href="https://bloinx.io/"><i class="fa fa-globe fa-2x"></i></a> Visit our <a href="https://bloinx.io/">website</a>  </p>
+																																					</div>
+																																					<div>
+																																						<p><a href="https://t.me/bloinx"><i class="fa fa-users fa-2x"></i></a> Join our <a href="https://t.me/bloinx">community</a> and ask us your questions </p>
+																																					</div>
+																																					<div>
+																																					</div>
+																																				</div>
+																																				<p class="post-meta border-bottom pb-3 mb-0 mt-3">Updated on 14 Jul 2022</p>
+																																				<nav class="pagination mt-3">
+																																					<a class="nav nav-prev" href="https://unicef.github.io/inventory-staging/cohorts/blockchain/" aria-label="Previous page" ><i class="ti-arrow-left mr-2"></i> <span class="d-none d-md-block">Blockchain</span></a>
+																																					<a class="nav nav-next" href="https://unicef.github.io/inventory-staging/cohorts/blockchain/kotani-pay/" aria-label="Previous page" > <span class="d-none d-md-block">Kotani Pay</span><i class="ti-arrow-right ml-2"></i></a>
+																																				</nav>
+																																				<section class="my-3 py-3" id="related-articles">
+																																					<h5 class="text-center">Related Articles</h5>
+																																					<div class="row">
+																																						<div class="col-sm-4 my-2">
+																																							<a href="https://unicef.github.io/inventory-staging/cohorts/blockchain/xcapit/">
+																																								<div class="card text-center">
+																																									<div class="card-body">
+																																										<h5 class="card-title">Xcapit</h5>
+																																										<p class="card-subtitle mb-2 text-muted">A platform using blockchain for wealth management, including financial planning and financial learning in a gamified way.</p>
+																																									</div>
+																																								</div>
+																																							</a>
+																																						</div>
+																																						<div class="col-sm-4 my-2">
+																																							<a href="https://unicef.github.io/inventory-staging/cohorts/blockchain/treejer/">
+																																								<div class="card text-center">
+																																									<div class="card-body">
+																																										<h5 class="card-title">Treejer</h5>
+																																										<p class="card-subtitle mb-2 text-muted">Forest-based climate action protocol to track trees and growth, a financing tool to facilitate micro-loans and payments to rural tree planters.</p>
+																																									</div>
+																																								</div>
+																																							</a>
+																																						</div>
+																																					</div>
+																																				</section>
+																																			</div>
+																																		</div>
+																																	</div>
+																																</div>
+																															</section>
+																															<!-- /details page -->
+																															<!-- footer -->
+																															<footer class="section bg-primary p-4 mt-5">
+																																<div class="container">
+																																	<div class="row align-items-center">
+																																		<div class="col-md-3 text-md-left text-center">
+																																			<ul>
+																																				<li><a class="nav-link text-white" href="/inventory-staging">HOME</a></li>
+																																				<li class="nav-item">
+																																					<a class="nav-link text-white text-uppercase" href="https://unicef.github.io/inventory-staging/faq">FAQ</a>
+																																				</li>
+																																				<li class="nav-item">
+																																					<a class="nav-link text-white text-uppercase" href="https://unicef.github.io/inventory-staging/toolkits">toolkits</a>
+																																				</li>
+																																				<li class="nav-item">
+																																					<a class="nav-link text-white text-uppercase" href="https://unicef.github.io/inventory-staging/cohorts">cohorts</a>
+																																				</li>
+																																			</ul>
+																																		</div>
+																																		<div class="col-md-6 text-md-center text-center">
+																																			<p class="mb-md-0 mb-4 text-white">The UNICEF Open Source Inventory is a knowledge-base of best practices, resources, and information about working and leading Open. This is maintained as part of the Open Source Mentorship programme offered by the UNICEF Venture Fund. The Inventory provides mentorship and guidance to anyone seeking to adopt best practices in their journey to building an Open Source project and community. It is self-serve, and can be used at various phases of building a project and community.</p>
+																																		</div>
+																																		<div class="col-md-3 text-md-right text-center">
+																																			<ul class="text-white">
+																																				<li class="nav-item">
+																																					<a class="nav-link text-white font-weight-bold px-0" href="https://www.unicef.org/">UNICEF Global</a>
+																																				</li>
+																																				<li class="nav-item">
+																																					<a class="nav-link text-white font-weight-bold px-0" href="https://www.unicefinnovationfund.org/">UNICEF Venture Fund</a>
+																																				</li>
+																																				<li class="nav-item">
+																																					<a class="nav-link text-white font-weight-bold px-0" href="https://www.unicef.org/legal">Legal</a>
+																																					<p class="h6 text-md-right font-weight-light">Find legal information and policies related to UNICEF Global&#39;s digital communications.</p>
+																																				</li>
+																																			</ul>
+																																			<ul class="list-inline">
+																																				<li class="list-inline-item"><a class="text-color d-inline-block p-2 text-white socialIcon" href="https://github.com/unicef/inventory" aria-label="UNICEF Open Source Inventory on GitHub"><i class="ti-github"></i></a></li>
+																																				<li class="list-inline-item"><a class="text-color d-inline-block p-2 text-white socialIcon" href="https://twitter.com/UNICEFinnovate" aria-label="@UNICEFinnovate on Twitter"><i class="ti-twitter"></i></a></li>
+																																			</ul>
+																																		</div>
+																																	</div>
+																																</div>
+																																<p class="text-md-center text-center text-white mt-3 h6 font-italic">Creative Commons BY-SA 4.0. Site theme maintained by UNICEF. Original theme, Dot, created by ThemeFisher.</p>
+																															</footer>
+																															<!-- /footer -->
+																															<!-- Main Script -->
+																															<script src="https://unicef.github.io/inventory-staging/js/script.min.js"></script>
+																														</body>
+																													</html>
