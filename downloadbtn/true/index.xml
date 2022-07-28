@@ -47,10 +47,10 @@
     
     <item>
       <title>Continuous Integration (CI)</title>
-      <link>https://unicef.github.io/inventory-staging/open-source-resources-and-best-practices/dev-tools/continuous-integration/</link>
+      <link>https://unicef.github.io/inventory-staging/resources/dev-tools/continuous-integration/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://unicef.github.io/inventory-staging/open-source-resources-and-best-practices/dev-tools/continuous-integration/</guid>
+      <guid>https://unicef.github.io/inventory-staging/resources/dev-tools/continuous-integration/</guid>
       <description>Table of Contents 1. What is CI and why does it matter? 1.1. Tests vs. CI 1.2. Benefits   2. CI platforms 3. Tips and tricks 4. Examples 5. Other resources   This guide is an introduction to Continuous Integration (C.I.) for Open Source projects. In this guide, you will learn about the following topics:
  1. What is CI and why does it matter? Continuous Integration can be a few different things.</description>
     </item>
@@ -303,10 +303,10 @@
     
     <item>
       <title>Workflow: Update external UNICEF metrics</title>
-      <link>https://unicef.github.io/inventory-staging/open-source-resources-and-best-practices/workflow-metrics/</link>
+      <link>https://unicef.github.io/inventory-staging/resources/workflow-metrics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://unicef.github.io/inventory-staging/open-source-resources-and-best-practices/workflow-metrics/</guid>
+      <guid>https://unicef.github.io/inventory-staging/resources/workflow-metrics/</guid>
       <description>Open Source data and analytics are used across multiple tools and documents for talking about Venture Fund portfolio companies. When updating data sources in official UNICEF portals, follow this process for the quickest way of updating metrics.
   Open data input source (e.g. Sharepoint doc, Google Doc shared with company, etc.)
   Open Cauldron.io dashboard for company/project
@@ -315,10 +315,10 @@
     
     <item>
       <title>Workplan: Bridge Fund cohort</title>
-      <link>https://unicef.github.io/inventory-staging/open-source-resources-and-best-practices/workplan-bridge-funding/</link>
+      <link>https://unicef.github.io/inventory-staging/resources/workplan-bridge-funding/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://unicef.github.io/inventory-staging/open-source-resources-and-best-practices/workplan-bridge-funding/</guid>
+      <guid>https://unicef.github.io/inventory-staging/resources/workplan-bridge-funding/</guid>
       <description>Table of Contents 1. Mission 2. Vision 3. Community 4. Timeline 4.1. Q1 4.2. Q2 4.3. Q3 4.4. Q4   5. References   This page documents the workplan requirements for the Bridge Fund cohort of the UNICEF Venture Fund. These graduation expectations are in place for UNICEF grantees receiving follow-on funding from UNICEF. See the table of contents for navigating.
  1. Mission Bridging humanitarian Open Source works and communities to the wider Open Source ecosystem.</description>
     </item>
