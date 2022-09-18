@@ -19,25 +19,15 @@
     </item>
     
     <item>
-      <title>Frontier technology tips</title>
-      <link>https://unicef.github.io/inventory-staging/dpg-indicators/5/frontier-tech-tips/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://unicef.github.io/inventory-staging/dpg-indicators/5/frontier-tech-tips/</guid>
-      <description>This is a summary of a talk, &amp;#34;Uncharted waters: Documenting emerging technology&amp;#34;. It was given at DevConf 2020 in Brno, Czech Republic by Andrew Burden.
- 1. Video      2. Abstract  We can’t help but feel the lure towards the hot new thing, especially when it comes to technology. Part of that lure is the breaking of ground, venturing into the unknown, and working on solutions to new problems.</description>
-    </item>
-    
-    <item>
-      <title>Reading list</title>
+      <title>Documentation reading list</title>
       <link>https://unicef.github.io/inventory-staging/dpg-indicators/5/reading-list/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://unicef.github.io/inventory-staging/dpg-indicators/5/reading-list/</guid>
-      <description>Various readings on a variety of different topics related to different kinds of documentation.
- 1. Basics   How to write effective documentation for your open source project: Documentation quality can make the difference in people trying your project or passing it by.
+      <description>1. Basics   How to write effective documentation for your open source project: Documentation quality can make the difference in people trying your project or passing it by.
   What is good documentation for software projects?: Mixing experienced tech writers with open source communities reveals new approaches for creating better docs.
-  Your step-by-step guide to more effective documentation - Lauri Apple (@LappleApple)</description>
+  Your step-by-step guide to more effective documentation - Lauri Apple (@LappleApple)
+   1.1. Español   Documenta tu proyecto con README.</description>
     </item>
     
     <item>
@@ -56,11 +46,20 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://unicef.github.io/inventory-staging/dpg-indicators/5/text-editors/</guid>
-      <description>This page is focused on educational resources, not strictly comparisons of editors.
+      <description>This page is flagged for deletion. This article is not a good fit for this UNICEF Toolkit. It is proposed for future deletion from the UNICEF Open Source Inventory.
+  This page is focused on educational resources, not strictly comparisons of editors.
  1. Vim   Interactive Vim tutorial: An interactive tutorial with several sections of common Vim actions.
-  VimGolf: Various take-home challenges of various actions in Vim to be completed in as few keystrokes as possible.
-  Game: Vim Adventures, an adventure game that helps you learn Vim as you play.
-     </description>
+  VimGolf: Various take-home challenges of various actions in Vim to be completed in as few keystrokes as possible.</description>
+    </item>
+    
+    <item>
+      <title>Tips for documenting frontier technology</title>
+      <link>https://unicef.github.io/inventory-staging/dpg-indicators/5/frontier-tech-tips/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://unicef.github.io/inventory-staging/dpg-indicators/5/frontier-tech-tips/</guid>
+      <description>This is a summary of a talk, &amp;#34;Uncharted waters: Documenting emerging technology&amp;#34;. It was given at DevConf 2020 in Brno, Czech Republic by Andrew Burden.
+ 1. Video      2. Abstract  We can’t help but feel the lure towards the hot new thing, especially when it comes to technology. Part of that lure is the breaking of ground, venturing into the unknown, and working on solutions to new problems.</description>
     </item>
     
   </channel>

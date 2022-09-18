@@ -17,14 +17,23 @@
     </item>
     
     <item>
-      <title>Case studies</title>
-      <link>https://unicef.github.io/inventory-staging/dpg-indicators/8/open-hardware/case-studies/</link>
+      <title>Open Source Mentorship programme overview</title>
+      <link>https://unicef.github.io/inventory-staging/mentoring/overview/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://unicef.github.io/inventory-staging/dpg-indicators/8/open-hardware/case-studies/</guid>
-      <description>Table of Contents 1. Opentrons 2. Arduino 3. REMODEL toolkit 4. Honorable mentions 4.1. Ultimate Hacking Keyboard     Below are more detailed case studios of different Open Hardware organizations, projects, and products. Unlike the Projects page, these examples are more detailed and provide more context.
- 1. Opentrons Scientific-focused hardware.
-  Several highly successful and well-regarded biology/chemistry lab automation robots. By going 100% open source, they substantially reduced costs.</description>
+      <guid>https://unicef.github.io/inventory-staging/mentoring/overview/</guid>
+      <description>Table of Contents 1. Programme team 2. Eligibility 2.1. Venture Fund grantees 2.2. UNICEF colleagues 2.3. Other groups   3. References   This page documents and explains the general structure, approach, and methods of the Open Source Mentorship programme hosted on this website. The Open Source Mentorship programme is offered by the UNICEF Venture Fund.
+ 1. Programme team The Open Source Mentorship programme is administered by the Venture Fund Open Source Technical Advisor.</description>
+    </item>
+    
+    <item>
+      <title>1. Relevance to Sustainable Development Goals</title>
+      <link>https://unicef.github.io/inventory-staging/dpg-indicators/1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://unicef.github.io/inventory-staging/dpg-indicators/1/</guid>
+      <description>There is no content here yet!
+ </description>
     </item>
     
     <item>
@@ -42,39 +51,29 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://unicef.github.io/inventory-staging/dpg-indicators/9/codes-of-conduct/</guid>
-      <description>Table of Contents 1. Quality of writing 2. Clarity of expectations 3. Defined structure for handling enforcement 4. Two to four people responsible for handling sensitive reports 5. Use an existing Code of Conduct instead of writing one yourself 6. References      This Mission is a short exercise on understanding how Codes of Conduct fit into your Open Source community. In designing a Code of Conduct for a project community, we will explore these Requirements for this Mission:</description>
+      <description>Table of Contents 1. Quality of writing 2. Clarity of expectations 3. Defined structure for handling enforcement 4. Two to four people responsible for handling sensitive reports 5. Use an existing Code of Conduct instead of writing one yourself 6. References   This Mission is a short exercise on understanding how Codes of Conduct fit into your Open Source community.
+ 1. Quality of writing A Code of Conduct is an international document.</description>
     </item>
     
     <item>
-      <title>Continuous Integration (CI)</title>
-      <link>https://unicef.github.io/inventory-staging/resources/dev-tools/continuous-integration/</link>
+      <title>Continuous Integration (C.I.)</title>
+      <link>https://unicef.github.io/inventory-staging/dpg-indicators/8/continuous-integration/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://unicef.github.io/inventory-staging/resources/dev-tools/continuous-integration/</guid>
-      <description>Table of Contents 1. What is CI and why does it matter? 1.1. Tests vs. CI 1.2. Benefits   2. CI platforms 3. Tips and tricks 4. Examples 5. Other resources   This guide is an introduction to Continuous Integration (C.I.) for Open Source projects. In this guide, you will learn about the following topics:
- 1. What is CI and why does it matter? Continuous Integration can be a few different things.</description>
+      <guid>https://unicef.github.io/inventory-staging/dpg-indicators/8/continuous-integration/</guid>
+      <description>Table of Contents 1. What is CI and why does it matter? 1.1. Tests vs. CI 1.2. Benefits   2. CI platforms 3. Tips and tricks 4. Examples 5. Other resources   This guide is an introduction to Continuous Integration (C.I.) for Open Source projects.
+ 1. What is CI and why does it matter? Continuous Integration can be a few different things. However, for the open source context, think of CI as the tool or platform which runs a code test suite.</description>
     </item>
     
     <item>
       <title>Contributor License Agreements (CLAs)</title>
-      <link>https://unicef.github.io/inventory-staging/dpg-indicators/2/contributor-license-agreement-cla/</link>
+      <link>https://unicef.github.io/inventory-staging/dpg-indicators/3/contributor-license-agreement-cla/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://unicef.github.io/inventory-staging/dpg-indicators/2/contributor-license-agreement-cla/</guid>
+      <guid>https://unicef.github.io/inventory-staging/dpg-indicators/3/contributor-license-agreement-cla/</guid>
       <description>Table of Contents 1. What are they for? 1.1. Criticism of CLAs   2. What alternatives exist? 2.1. Fedora Project Contributor Agreement (FPCA)   3. What do I need for my own CLA?   Originally authored by Mike Nolan, edited and maintained by Justin W. Flory.
  This page introduces Contributor License Agreements (shortened C.L.As) in Open Source projects.
  1. What are they for? Contributor License Agreements (CLAs) are often used in Open Source projects to form a legal agreement between an individual or company and a project maintainer.</description>
-    </item>
-    
-    <item>
-      <title>Documentation</title>
-      <link>https://unicef.github.io/inventory-staging/dpg-indicators/8/open-hardware/documentation/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://unicef.github.io/inventory-staging/dpg-indicators/8/open-hardware/documentation/</guid>
-      <description>This page offers information and resources about documenting Open Hardware projects.
- 1. Conventions &amp;amp; standards   Open Know-How Manifest Specification: &amp;#34;The objective of this specification is to improve the open-ness of know-how for making hardware by improving the discoverability, portability and translatability of knowledge.&amp;#34; Provides a format and specification for how to document and release Open Hardware projects and design schematics.
-     </description>
     </item>
     
     <item>
@@ -89,6 +88,18 @@
     </item>
     
     <item>
+      <title>Documentation reading list</title>
+      <link>https://unicef.github.io/inventory-staging/dpg-indicators/5/reading-list/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://unicef.github.io/inventory-staging/dpg-indicators/5/reading-list/</guid>
+      <description>1. Basics   How to write effective documentation for your open source project: Documentation quality can make the difference in people trying your project or passing it by.
+  What is good documentation for software projects?: Mixing experienced tech writers with open source communities reveals new approaches for creating better docs.
+  Your step-by-step guide to more effective documentation - Lauri Apple (@LappleApple)
+   1.1. Español   Documenta tu proyecto con README.</description>
+    </item>
+    
+    <item>
       <title>Fedora Project</title>
       <link>https://unicef.github.io/inventory-staging/dpg-indicators/8/communities/fedora/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -99,13 +110,13 @@
     </item>
     
     <item>
-      <title>Frontier technology tips</title>
-      <link>https://unicef.github.io/inventory-staging/dpg-indicators/5/frontier-tech-tips/</link>
+      <title>Free &amp; Open Source reading list</title>
+      <link>https://unicef.github.io/inventory-staging/dpg-indicators/8/reading-list-foss/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://unicef.github.io/inventory-staging/dpg-indicators/5/frontier-tech-tips/</guid>
-      <description>This is a summary of a talk, &amp;#34;Uncharted waters: Documenting emerging technology&amp;#34;. It was given at DevConf 2020 in Brno, Czech Republic by Andrew Burden.
- 1. Video      2. Abstract  We can’t help but feel the lure towards the hot new thing, especially when it comes to technology. Part of that lure is the breaking of ground, venturing into the unknown, and working on solutions to new problems.</description>
+      <guid>https://unicef.github.io/inventory-staging/dpg-indicators/8/reading-list-foss/</guid>
+      <description>Table of Contents 1. Foundations 2. Governance   Readings on a variety of topics about Free &amp;amp; Open Source Software.
+ 1. Foundations   Four Freedoms of Free Software: Before understanding anything else about Open Source, you must first understand the core foundation of what decades of Open Source development built upon: the Four Freedoms. The Four Freedoms can be remembered as the freedoms to Read, Run, Revise, &amp;amp; Redistribute.</description>
     </item>
     
     <item>
@@ -114,17 +125,9 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://unicef.github.io/inventory-staging/dpg-indicators/8/good-first-issue/</guid>
-      <description>Flory, Justin W.
-    This Mission is a guide to making &amp;#34;good first issues&amp;#34; (shortened to G.F.I.&amp;#39;s) for your Open Source community. To create good GFIs, we will explore these Objectives for this Mission:
-  GFIs exist
-  Assignee ratio
-  Simple language
-  Actionable
-  Purpose
-  Deadlines
-  Low committment
-  References
-   1. GFIs exist The first requirement to having good GFIs is to… create GFIs!</description>
+      <description>Table of Contents 1. GFIs exist 2. Assignee ratio 3. Simple language 4. Actionable 5. Purpose 6. Deadlines 7. Low committment 8. References 8.1. Resources &amp;amp; tools 8.2. Readings     This Mission is a guide to making &amp;#34;good first issues&amp;#34; (shortened to G.F.I.&amp;#39;s) for your Open Source community.
+ 1. GFIs exist The first requirement to having good GFIs is to… create GFIs!
+ In the case of writing new GFIs, it is usually better to publish something sooner than later, and not overthink it.</description>
     </item>
     
     <item>
@@ -134,8 +137,7 @@
       
       <guid>https://unicef.github.io/inventory-staging/dpg-indicators/3/governance/</guid>
       <description>Table of Contents 1. What is Open Source governance? 2. Models 3. Examples 3.1. Linux kernel 3.2. Fedora Project   4. Resources 4.1. Exploratory 4.2. Journalism     This page defines and provides examples of Open Source governance. This includes Open Source project governance models, examples of other projects, frameworks for decision-making, and more.
- This page is a work-in-progress. Check back later for future additions.
- 1.</description>
+ 1. What is Open Source governance? The phrase &amp;#34;Open Source governance&amp;#34; generally refers to the decision-making model or documented process for how an Open Source project makes decisions.</description>
     </item>
     
     <item>
@@ -146,6 +148,39 @@
       <guid>https://unicef.github.io/inventory-staging/dpg-indicators/2/gpl-comparison/</guid>
       <description>Table of Contents 1. Why update? Stallman’s objection to Tivoization 1.1. Other opinions   2. Legal overview 2.1. Anti-Circumvention Law 2.2. User Product rules 2.3. Cure period and the GPL Cooperation Commitment 2.4. &amp;#34;Legalese&amp;#34;     The information shared on this page does not constitute legal or financial advice.
  This page provides an interpretation of the key differences between v2 and v3 of the GNU Public License, or G.</description>
+    </item>
+    
+    <item>
+      <title>How to create a new Inventory category</title>
+      <link>https://unicef.github.io/inventory-staging/meta/create-new-category/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://unicef.github.io/inventory-staging/meta/create-new-category/</guid>
+      <description>Table of Contents 1. Steps 2. Template for new index pages 2.1. Choose an icon     This how-to article explains how to create a new category in the Open Source Inventory.
+ 1. Steps  Create a new folder in the content/ directory.
+  Create a _index.en.adoc page in the new directory (see template).
+  Add the category to config.yml as a child to [[menu.main]]. See other categories in the config as an example.</description>
+    </item>
+    
+    <item>
+      <title>How to create a new Inventory Mission</title>
+      <link>https://unicef.github.io/inventory-staging/meta/create-new-mission/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://unicef.github.io/inventory-staging/meta/create-new-mission/</guid>
+      <description>Table of Contents 1. Steps 2. Front-matter data values   This how-to article explains how to create a new Mission in the Open Source Inventory.
+ 1. Steps  Copy the Mission template as a new file using the file committed at content/meta/_template.en.adoc.
+  Edit the template front-matter to include a weight, description, tags, and categories (see descriptions below).
+  Edit the content using the questions in the template as structural guidelines.</description>
+    </item>
+    
+    <item>
+      <title>Intern&#39;s guide for O.S. Inventory</title>
+      <link>https://unicef.github.io/inventory-staging/meta/intern-guide/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://unicef.github.io/inventory-staging/meta/intern-guide/</guid>
+      <description>Table of Contents 1. Introducing Hugo 2. Introducing the UNICEF Inventory 3. Dev tips and tricks 4. Working with the team 5. What I wish I knew earlier   This document is an on-boarding guide for interns working on the UNICEF Open Source Inventory. It is written and maintained by interns who worked or are working on the project. Please help keep this guide up-to-date by documenting your own experiences and adding your name as an author!</description>
     </item>
     
     <item>
@@ -167,7 +202,94 @@
     </item>
     
     <item>
-      <title>Licensing</title>
+      <title>Maintainer&#39;s guide for O.S. Inventory</title>
+      <link>https://unicef.github.io/inventory-staging/meta/maintainers-guide/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://unicef.github.io/inventory-staging/meta/maintainers-guide/</guid>
+      <description>Table of Contents 1. Contribution conventions 1.1. Label conventions 1.2. Commit message conventions 1.3. How to update git submodule as a maintainer 1.4. How development decisions are prioritized   2. Common resources and cheat sheets 2.1. AsciiDoc syntax cheat sheet 2.2. Hugo documentation 2.3. CI pipeline (diagram)     This document is a maintainer’s guide for the UNICEF Open Source Inventory. Yes, this very site! This guide covers key information and helpful resources, as well as best practices when maintaining the O.</description>
+    </item>
+    
+    <item>
+      <title>Mentoring modules</title>
+      <link>https://unicef.github.io/inventory-staging/mentoring/modules/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://unicef.github.io/inventory-staging/mentoring/modules/</guid>
+      <description>Table of Contents 1. Offered modules 1.1. Legal &amp;amp; Licensing: Foundations of Open Source intellectual property 1.2. Launching your Open Source project 1.3. Open Source documentation 1.4. Continuous Integration for continuous contribution 1.5. Archetypes: Shape and size of Open Source over time   2. Module programming 2.1. 12-month Venture Fund contracts     The UNICEF Open Source Mentorship programme offers multiple learning modules and mentorship topics. This page provides an overview of the different modules currently offered through the Open Source Mentorship programme.</description>
+    </item>
+    
+    <item>
+      <title>Needs assessment interview template</title>
+      <link>https://unicef.github.io/inventory-staging/mentoring/needs-assessment-template/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://unicef.github.io/inventory-staging/mentoring/needs-assessment-template/</guid>
+      <description>This document is an interview template for needs assessments with UNICEF Venture Fund cohorts in Open Source induction calls. The needs assessment is a tool to collect background and context for each team’s experience and familiarity with open source. It also builds understanding for participation in existing open source communities. This template provides structure and guidance on what to ask to any team at the beginning of an Open Source Mentorship program.</description>
+    </item>
+    
+    <item>
+      <title>On-boarding guide for UNICEF Venture Fund teams</title>
+      <link>https://unicef.github.io/inventory-staging/mentoring/onboarding/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://unicef.github.io/inventory-staging/mentoring/onboarding/</guid>
+      <description>Table of Contents 1. Summary of UNICEF Open Source Mentorship 1.1. Monthly 60m check-ins 1.2. Ad-hoc 30m meetings   2. Meet the Inventory 3. Topics covered in Open Source Mentorship   This document is for teams newly joining the UNICEF Venture Fund. It provides a high-level overview to the UNICEF Open Source Mentorship programme, a unique perk and strategic asset of being a UNICEF investee.
+ 1. Summary of UNICEF Open Source Mentorship Your assigned Open Source Mentor from the Venture Fund can be found on the programme team list.</description>
+    </item>
+    
+    <item>
+      <title>Open Hardware</title>
+      <link>https://unicef.github.io/inventory-staging/dpg-indicators/8/open-hardware/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://unicef.github.io/inventory-staging/dpg-indicators/8/open-hardware/</guid>
+      <description>Resources and advice specific to building Open Hardware projects and communities.
+ 1. Table of contents  Introduction to Open Source Hardware
+  Case studies
+  Documentation
+  Licensing
+  Open Hardware reading list
+  Project Hall of Fame
+     2. Contributors This collection of information is edited by Justin W. Flory and contributed by a community of contributors. Special thanks for the information in this category goes to the following contributors:</description>
+    </item>
+    
+    <item>
+      <title>Open Hardware case studies</title>
+      <link>https://unicef.github.io/inventory-staging/dpg-indicators/8/open-hardware/case-studies/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://unicef.github.io/inventory-staging/dpg-indicators/8/open-hardware/case-studies/</guid>
+      <description>Table of Contents 1. Opentrons 2. Arduino 3. REMODEL toolkit 4. Honorable mentions 4.1. Ultimate Hacking Keyboard     Below are more detailed case studios of different Open Hardware organizations, projects, and products. Unlike the Projects page, these examples are more detailed and provide more context.
+ 1. Opentrons Scientific-focused hardware.
+  Several highly successful and well-regarded biology/chemistry lab automation robots. By going 100% open source, they substantially reduced costs.</description>
+    </item>
+    
+    <item>
+      <title>Open Hardware documentation</title>
+      <link>https://unicef.github.io/inventory-staging/dpg-indicators/8/open-hardware/documentation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://unicef.github.io/inventory-staging/dpg-indicators/8/open-hardware/documentation/</guid>
+      <description>This page offers information and resources about documenting Open Hardware projects.
+ 1. Conventions &amp;amp; standards   Open Know-How Manifest Specification: &amp;#34;The objective of this specification is to improve the open-ness of know-how for making hardware by improving the discoverability, portability and translatability of knowledge.&amp;#34; Provides a format and specification for how to document and release Open Hardware projects and design schematics.
+     </description>
+    </item>
+    
+    <item>
+      <title>Open Hardware Hall of Fame</title>
+      <link>https://unicef.github.io/inventory-staging/dpg-indicators/8/open-hardware/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://unicef.github.io/inventory-staging/dpg-indicators/8/open-hardware/projects/</guid>
+      <description>This page collects various Open Hardware projects. These projects are not officially endorsed, but are listed here as a convenience to generate a list of examples for reference. For more detailed overviews, see the Case Studies page.
+ Check out the list of certified hardware from the Open Source Hardware Association for more inspiration.
+ 1. Businesses &amp;amp; companies   Adafruit Industries
+  Aleph Objects: Makers of LulzBot family of 3D printers.</description>
+    </item>
+    
+    <item>
+      <title>Open Hardware licensing</title>
       <link>https://unicef.github.io/inventory-staging/dpg-indicators/8/open-hardware/licensing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -188,10 +310,10 @@
     
     <item>
       <title>Open-first business approaches</title>
-      <link>https://unicef.github.io/inventory-staging/dpg-indicators/3/approaches/</link>
+      <link>https://unicef.github.io/inventory-staging/dpg-indicators/8/approaches/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://unicef.github.io/inventory-staging/dpg-indicators/3/approaches/</guid>
+      <guid>https://unicef.github.io/inventory-staging/dpg-indicators/8/approaches/</guid>
       <description>Table of Contents 1. Asking the right question 2. Seven approaches for building Open works 2.1. Enterprise or targeted versions 2.2. Services around your product 2.3. Services are your product 2.4. Content 2.5. Packaging 2.6. Franchising 2.7. Training     This page collects information, best practices, and references about sustainable Open-first business approaches.
  How do you build a sustainable business approach when you work Open? While the Open Source model of working is not completely new, it is a new way of working for many people who have not previously participated in highly collaborative, distributed communities.</description>
     </item>
@@ -217,15 +339,12 @@
     </item>
     
     <item>
-      <title>Project Hall of Fame</title>
-      <link>https://unicef.github.io/inventory-staging/dpg-indicators/8/open-hardware/projects/</link>
+      <title>Project Management</title>
+      <link>https://unicef.github.io/inventory-staging/dpg-indicators/8/project-management/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://unicef.github.io/inventory-staging/dpg-indicators/8/open-hardware/projects/</guid>
-      <description>This page collects various Open Hardware projects. These projects are not officially endorsed, but are listed here as a convenience to generate a list of examples for reference. For more detailed overviews, see the Case Studies page.
- Check out the list of certified hardware from the Open Source Hardware Association for more inspiration.
- 1. Businesses &amp;amp; companies   Adafruit Industries
-  Aleph Objects: Makers of LulzBot family of 3D printers.</description>
+      <guid>https://unicef.github.io/inventory-staging/dpg-indicators/8/project-management/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -239,34 +358,22 @@
     </item>
     
     <item>
-      <title>Reading list</title>
-      <link>https://unicef.github.io/inventory-staging/dpg-indicators/5/reading-list/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://unicef.github.io/inventory-staging/dpg-indicators/5/reading-list/</guid>
-      <description>Various readings on a variety of different topics related to different kinds of documentation.
- 1. Basics   How to write effective documentation for your open source project: Documentation quality can make the difference in people trying your project or passing it by.
-  What is good documentation for software projects?: Mixing experienced tech writers with open source communities reveals new approaches for creating better docs.
-  Your step-by-step guide to more effective documentation - Lauri Apple (@LappleApple)</description>
-    </item>
-    
-    <item>
-      <title>Reading list: FOSS</title>
-      <link>https://unicef.github.io/inventory-staging/dpg-indicators/3/reading-list/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://unicef.github.io/inventory-staging/dpg-indicators/3/reading-list/</guid>
-      <description>Table of Contents 1. Foundations 2. Governance   Readings on a variety of topics about Free &amp;amp; Open Source Software.
- 1. Foundations   Four Freedoms of Free Software: Before understanding anything else about Open Source, you must first understand the core foundation of what decades of Open Source development built upon: the Four Freedoms. The Four Freedoms can be remembered as the freedoms to Read, Run, Revise, &amp;amp; Redistribute.</description>
-    </item>
-    
-    <item>
       <title>Reading List: Legal &amp; Business Aspects</title>
       <link>https://unicef.github.io/inventory-staging/dpg-indicators/2/reading-list/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://unicef.github.io/inventory-staging/dpg-indicators/2/reading-list/</guid>
       <description>Table of Contents 1. Foundations 2. Choosing a license 2.1. Choosing permissive 2.2. Choosing copyleft   3. Examples 3.1. Software licenses 3.2. Content licenses 3.3. Data licenses     This reading list is a collection of resources on legal and business aspects of open source. Legal and business aspects of an open source project are part of the foundation for building your project and community. The resources linked here are intended to give you a better idea of open source from a legal perspective.</description>
+    </item>
+    
+    <item>
+      <title>Reproducibility reading list</title>
+      <link>https://unicef.github.io/inventory-staging/dpg-indicators/8/reading-list-reproducibility/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://unicef.github.io/inventory-staging/dpg-indicators/8/reading-list-reproducibility/</guid>
+      <description>  A Guide to Reproducible Code: A guide written by scientists, for scientists, on creating reproducible code. Includes topics like A simple reproducible project workflow, Organising projects for reproducibility, Reproducible reports, and more. Edited by Natalie Cooper and Pen-Yuan Hsing. Featuring contributions from Mike Croucher, Laura Graham, Tamora James, Anna Krystalli, and François Michonneau.
+   </description>
     </item>
     
     <item>
@@ -280,16 +387,39 @@
     </item>
     
     <item>
+      <title>Templates for programme mentors</title>
+      <link>https://unicef.github.io/inventory-staging/mentoring/templates/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://unicef.github.io/inventory-staging/mentoring/templates/</guid>
+      <description>Table of Contents 1. Induction agenda template 2. Initial research template 3. Email summary template   This page is a copy-paste template of various templates I use for Open Source Mentorship meetings. I use these for my private notes about each team’s progress.
+ 1. Induction agenda template   Agenda:
+  Introductions
+  Offer to record call
+  Review O.S. Terms of Reference
+  Review frequently-used resources (i.</description>
+    </item>
+    
+    <item>
       <title>Text editors</title>
       <link>https://unicef.github.io/inventory-staging/dpg-indicators/5/text-editors/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://unicef.github.io/inventory-staging/dpg-indicators/5/text-editors/</guid>
-      <description>This page is focused on educational resources, not strictly comparisons of editors.
+      <description>This page is flagged for deletion. This article is not a good fit for this UNICEF Toolkit. It is proposed for future deletion from the UNICEF Open Source Inventory.
+  This page is focused on educational resources, not strictly comparisons of editors.
  1. Vim   Interactive Vim tutorial: An interactive tutorial with several sections of common Vim actions.
-  VimGolf: Various take-home challenges of various actions in Vim to be completed in as few keystrokes as possible.
-  Game: Vim Adventures, an adventure game that helps you learn Vim as you play.
-     </description>
+  VimGolf: Various take-home challenges of various actions in Vim to be completed in as few keystrokes as possible.</description>
+    </item>
+    
+    <item>
+      <title>Tips for documenting frontier technology</title>
+      <link>https://unicef.github.io/inventory-staging/dpg-indicators/5/frontier-tech-tips/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://unicef.github.io/inventory-staging/dpg-indicators/5/frontier-tech-tips/</guid>
+      <description>This is a summary of a talk, &amp;#34;Uncharted waters: Documenting emerging technology&amp;#34;. It was given at DevConf 2020 in Brno, Czech Republic by Andrew Burden.
+ 1. Video      2. Abstract  We can’t help but feel the lure towards the hot new thing, especially when it comes to technology. Part of that lure is the breaking of ground, venturing into the unknown, and working on solutions to new problems.</description>
     </item>
     
     <item>
@@ -303,22 +433,21 @@
     
     <item>
       <title>Workflow: Update external UNICEF metrics</title>
-      <link>https://unicef.github.io/inventory-staging/resources/workflow-metrics/</link>
+      <link>https://unicef.github.io/inventory-staging/mentoring/workflow-metrics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://unicef.github.io/inventory-staging/resources/workflow-metrics/</guid>
-      <description>Open Source data and analytics are used across multiple tools and documents for talking about Venture Fund portfolio companies. When updating data sources in official UNICEF portals, follow this process for the quickest way of updating metrics.
-  Open data input source (e.g. Sharepoint doc, Google Doc shared with company, etc.)
-  Open Cauldron.io dashboard for company/project
-  Look at annual ranges first before doing quarterly ranges. Some metrics need to be collected manually for annual ranges:</description>
+      <guid>https://unicef.github.io/inventory-staging/mentoring/workflow-metrics/</guid>
+      <description>This page is flagged for deletion. This article is not a good fit for this UNICEF Toolkit. It is proposed for future deletion from the UNICEF Open Source Inventory.
+  Open Source data and analytics are used across multiple tools and documents for talking about Venture Fund portfolio companies. When updating data sources in official UNICEF portals, follow this process for the quickest way of updating metrics.
+  Open data input source (e.</description>
     </item>
     
     <item>
       <title>Workplan: Bridge Fund cohort</title>
-      <link>https://unicef.github.io/inventory-staging/resources/workplan-bridge-funding/</link>
+      <link>https://unicef.github.io/inventory-staging/mentoring/workplan-bridge-funding/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://unicef.github.io/inventory-staging/resources/workplan-bridge-funding/</guid>
+      <guid>https://unicef.github.io/inventory-staging/mentoring/workplan-bridge-funding/</guid>
       <description>Table of Contents 1. Mission 2. Vision 3. Community 4. Timeline 4.1. Q1 4.2. Q2 4.3. Q3 4.4. Q4   5. References   This page documents the workplan requirements for the Bridge Fund cohort of the UNICEF Venture Fund. These graduation expectations are in place for UNICEF grantees receiving follow-on funding from UNICEF. See the table of contents for navigating.
  1. Mission Bridging humanitarian Open Source works and communities to the wider Open Source ecosystem.</description>
     </item>
